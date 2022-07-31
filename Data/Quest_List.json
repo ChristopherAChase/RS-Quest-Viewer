@@ -1,0 +1,3068 @@
+{
+   "quests": [
+      {
+         "name": "The Dig Site",
+         "url": "https://runescape.wiki/w/The_Dig_Site",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 10
+            },
+            {
+               "skill": "Herblore",
+               "level": 10
+            },
+            {
+               "skill": "Thieving",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "Curse of the Black Stone",
+         "url": "https://runescape.wiki/w/Curse_of_the_Black_Stone",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 12
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 34
+            }
+         ]
+      },
+      {
+         "name": "The Lost Tribe",
+         "url": "https://runescape.wiki/w/The_Lost_Tribe",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 13
+            },
+            {
+               "skill": "Mining",
+               "level": 17
+            },
+            {
+               "skill": "Thieving",
+               "level": 13
+            }
+         ]
+      },
+      {
+         "name": "Haunted Mine",
+         "url": "https://runescape.wiki/w/Haunted_Mine",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 15
+            },
+            {
+               "skill": "Crafting",
+               "level": 35
+            }
+         ]
+      },
+      {
+         "name": "Tai Bwo Wannai Trio",
+         "url": "https://runescape.wiki/w/Tai_Bwo_Wannai_Trio",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 15
+            },
+            {
+               "skill": "Cooking",
+               "level": 30
+            },
+            {
+               "skill": "Fishing",
+               "level": 5
+            }
+         ]
+      },
+      {
+         "name": "Troll Stronghold",
+         "url": "https://runescape.wiki/w/Troll_Stronghold",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 15
+            },
+            {
+               "skill": "Thieving",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Mountain Daughter",
+         "url": "https://runescape.wiki/w/Mountain_Daughter",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "Death to the Dorgeshuun",
+         "url": "https://runescape.wiki/w/Death_to_the_Dorgeshuun",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 23
+            },
+            {
+               "skill": "Thieving",
+               "level": 23
+            }
+         ]
+      },
+      {
+         "name": "Ghosts Ahoy",
+         "url": "https://runescape.wiki/w/Ghosts_Ahoy",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 25
+            },
+            {
+               "skill": "Cooking",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "The Grand Tree",
+         "url": "https://runescape.wiki/w/The_Grand_Tree",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "In Search of the Myreque",
+         "url": "https://runescape.wiki/w/In_Search_of_the_Myreque",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "Watchtower",
+         "url": "https://runescape.wiki/w/Watchtower",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 25
+            },
+            {
+               "skill": "Herblore",
+               "level": 14
+            },
+            {
+               "skill": "Magic",
+               "level": 14
+            },
+            {
+               "skill": "Mining",
+               "level": 40
+            },
+            {
+               "skill": "Thieving",
+               "level": 15
+            }
+         ]
+      },
+      {
+         "name": "The Darkness of Hallowvale",
+         "url": "https://runescape.wiki/w/The_Darkness_of_Hallowvale",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 26
+            },
+            {
+               "skill": "Construction",
+               "level": 5
+            },
+            {
+               "skill": "Crafting",
+               "level": 32
+            },
+            {
+               "skill": "Magic",
+               "level": 33
+            },
+            {
+               "skill": "Mining",
+               "level": 20
+            },
+            {
+               "skill": "Strength",
+               "level": 40
+            },
+            {
+               "skill": "Thieving",
+               "level": 22
+            }
+         ]
+      },
+      {
+         "name": "Troll Romance",
+         "url": "https://runescape.wiki/w/Troll_Romance",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 28
+            }
+         ]
+      },
+      {
+         "name": "Legacy of Seergaze",
+         "url": "https://runescape.wiki/w/Legacy_of_Seergaze",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 29
+            },
+            {
+               "skill": "Construction",
+               "level": 20
+            },
+            {
+               "skill": "Crafting",
+               "level": 47
+            },
+            {
+               "skill": "Firemaking",
+               "level": 40
+            },
+            {
+               "skill": "Magic",
+               "level": 49
+            },
+            {
+               "skill": "Mining",
+               "level": 35
+            },
+            {
+               "skill": "Slayer",
+               "level": 31
+            }
+         ]
+      },
+      {
+         "name": "Cold War",
+         "url": "https://runescape.wiki/w/Cold_War",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 30
+            },
+            {
+               "skill": "Construction",
+               "level": 34
+            },
+            {
+               "skill": "Crafting",
+               "level": 30
+            },
+            {
+               "skill": "Hunter",
+               "level": 10
+            }
+         ]
+      },
+      {
+         "name": "Crocodile Tears",
+         "url": "https://runescape.wiki/w/Crocodile_Tears",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 30
+            },
+            {
+               "skill": "Fishing",
+               "level": 72
+            },
+            {
+               "skill": "Hunter",
+               "level": 73
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 47
+            }
+         ]
+      },
+      {
+         "name": "Dishonour among Thieves",
+         "url": "https://runescape.wiki/w/Dishonour_among_Thieves",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 30
+            },
+            {
+               "skill": "Thieving",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Evil Dave's Big Day Out",
+         "url": "https://runescape.wiki/w/Evil_Dave%27s_Big_Day_Out",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 30
+            },
+            {
+               "skill": "Cooking",
+               "level": 30
+            },
+            {
+               "skill": "Herblore",
+               "level": 30
+            },
+            {
+               "skill": "Magic",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Shilo Village",
+         "url": "https://runescape.wiki/w/Shilo_Village",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 32
+            },
+            {
+               "skill": "Crafting",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "Horror From the Deep",
+         "url": "https://runescape.wiki/w/Horror_From_the_Deep",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 35
+            }
+         ]
+      },
+      {
+         "name": "Land of the Goblins",
+         "url": "https://runescape.wiki/w/Land_of_the_Goblins",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 36
+            },
+            {
+               "skill": "Fishing",
+               "level": 36
+            },
+            {
+               "skill": "Herblore",
+               "level": 37
+            },
+            {
+               "skill": "Prayer",
+               "level": 30
+            },
+            {
+               "skill": "Thieving",
+               "level": 36
+            }
+         ]
+      },
+      {
+         "name": "One Small Favour",
+         "url": "https://runescape.wiki/w/One_Small_Favour",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 36
+            },
+            {
+               "skill": "Crafting",
+               "level": 25
+            },
+            {
+               "skill": "Herblore",
+               "level": 18
+            },
+            {
+               "skill": "Smithing",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "The Fremennik Isles",
+         "url": "https://runescape.wiki/w/The_Fremennik_Isles",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 40
+            },
+            {
+               "skill": "Construction",
+               "level": 20
+            },
+            {
+               "skill": "Crafting",
+               "level": 46
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 56
+            }
+         ]
+      },
+      {
+         "name": "Royal Trouble",
+         "url": "https://runescape.wiki/w/Royal_Trouble",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 40
+            },
+            {
+               "skill": "Slayer",
+               "level": 40
+            },
+            {
+               "skill": "Smithing",
+               "level": 40
+            }
+         ]
+      },
+      {
+         "name": "Cabin Fever",
+         "url": "https://runescape.wiki/w/Cabin_Fever",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 42
+            },
+            {
+               "skill": "Crafting",
+               "level": 45
+            },
+            {
+               "skill": "Ranged",
+               "level": 40
+            },
+            {
+               "skill": "Smithing",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "The Path of Glouphrie",
+         "url": "https://runescape.wiki/w/The_Path_of_Glouphrie",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 45
+            },
+            {
+               "skill": "Ranged",
+               "level": 47
+            },
+            {
+               "skill": "Slayer",
+               "level": 56
+            },
+            {
+               "skill": "Strength",
+               "level": 60
+            },
+            {
+               "skill": "Thieving",
+               "level": 56
+            }
+         ]
+      },
+      {
+         "name": "The Chosen Commander",
+         "url": "https://runescape.wiki/w/The_Chosen_Commander",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 46
+            },
+            {
+               "skill": "Strength",
+               "level": 46
+            },
+            {
+               "skill": "Thieving",
+               "level": 46
+            }
+         ]
+      },
+      {
+         "name": "Recipe for Disaster",
+         "url": "https://runescape.wiki/w/Recipe_for_Disaster",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 48
+            },
+            {
+               "skill": "Cooking",
+               "level": 70
+            },
+            {
+               "skill": "Farming",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "Dealing with Scabaras",
+         "url": "https://runescape.wiki/w/Dealing_with_Scabaras",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 50
+            },
+            {
+               "skill": "Firemaking",
+               "level": 21
+            },
+            {
+               "skill": "Strength",
+               "level": 60
+            },
+            {
+               "skill": "Thieving",
+               "level": 60
+            }
+         ]
+      },
+      {
+         "name": "Glorious Memories",
+         "url": "https://runescape.wiki/w/Glorious_Memories",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 50
+            },
+            {
+               "skill": "Herblore",
+               "level": 43
+            },
+            {
+               "skill": "Hunter",
+               "level": 41
+            },
+            {
+               "skill": "Magic",
+               "level": 57
+            }
+         ]
+      },
+      {
+         "name": "Legends' Quest",
+         "url": "https://runescape.wiki/w/Legends%27_Quest",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 50
+            },
+            {
+               "skill": "Crafting",
+               "level": 50
+            },
+            {
+               "skill": "Herblore",
+               "level": 45
+            },
+            {
+               "skill": "Magic",
+               "level": 56
+            },
+            {
+               "skill": "Mining",
+               "level": 52
+            },
+            {
+               "skill": "Prayer",
+               "level": 42
+            },
+            {
+               "skill": "Smithing",
+               "level": 50
+            },
+            {
+               "skill": "Strength",
+               "level": 50
+            },
+            {
+               "skill": "Thieving",
+               "level": 50
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "Defender of Varrock",
+         "url": "https://runescape.wiki/w/Defender_of_Varrock",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 51
+            },
+            {
+               "skill": "Hunter",
+               "level": 51
+            },
+            {
+               "skill": "Mining",
+               "level": 59
+            },
+            {
+               "skill": "Smithing",
+               "level": 54
+            }
+         ]
+      },
+      {
+         "name": "Back to my Roots",
+         "url": "https://runescape.wiki/w/Back_to_my_Roots",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 55
+            },
+            {
+               "skill": "Farming",
+               "level": 53
+            },
+            {
+               "skill": "Slayer",
+               "level": 59
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 72
+            }
+         ]
+      },
+      {
+         "name": "Regicide",
+         "url": "https://runescape.wiki/w/Regicide",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 56
+            }
+         ]
+      },
+      {
+         "name": "Azzanadra's Quest",
+         "url": "https://runescape.wiki/w/Azzanadra%27s_Quest",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 58
+            },
+            {
+               "skill": "Archaeology",
+               "level": 58
+            }
+         ]
+      },
+      {
+         "name": "Grim Tales",
+         "url": "https://runescape.wiki/w/Grim_Tales",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 59
+            },
+            {
+               "skill": "Farming",
+               "level": 45
+            },
+            {
+               "skill": "Herblore",
+               "level": 52
+            },
+            {
+               "skill": "Thieving",
+               "level": 58
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 71
+            }
+         ]
+      },
+      {
+         "name": "The Elder Kiln",
+         "url": "https://runescape.wiki/w/The_Elder_Kiln",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 60
+            },
+            {
+               "skill": "Magic",
+               "level": 75
+            },
+            {
+               "skill": "Mining",
+               "level": 41
+            }
+         ]
+      },
+      {
+         "name": "Kindred Spirits",
+         "url": "https://runescape.wiki/w/Kindred_Spirits",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 60
+            },
+            {
+               "skill": "Crafting",
+               "level": 60
+            },
+            {
+               "skill": "Herblore",
+               "level": 60
+            },
+            {
+               "skill": "Smithing",
+               "level": 60
+            }
+         ]
+      },
+      {
+         "name": "Rocking Out",
+         "url": "https://runescape.wiki/w/Rocking_Out",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 60
+            },
+            {
+               "skill": "Crafting",
+               "level": 66
+            },
+            {
+               "skill": "Smithing",
+               "level": 69
+            },
+            {
+               "skill": "Thieving",
+               "level": 63
+            }
+         ]
+      },
+      {
+         "name": "The Curse of Arrav",
+         "url": "https://runescape.wiki/w/The_Curse_of_Arrav",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 61
+            },
+            {
+               "skill": "Mining",
+               "level": 64
+            },
+            {
+               "skill": "Ranged",
+               "level": 64
+            },
+            {
+               "skill": "Slayer",
+               "level": 37
+            },
+            {
+               "skill": "Strength",
+               "level": 64
+            },
+            {
+               "skill": "Summoning",
+               "level": 41
+            },
+            {
+               "skill": "Thieving",
+               "level": 66
+            }
+         ]
+      },
+      {
+         "name": "The Branches of Darkmeyer",
+         "url": "https://runescape.wiki/w/The_Branches_of_Darkmeyer",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 63
+            },
+            {
+               "skill": "Crafting",
+               "level": 64
+            },
+            {
+               "skill": "Farming",
+               "level": 63
+            },
+            {
+               "skill": "Fletching",
+               "level": 70
+            },
+            {
+               "skill": "Magic",
+               "level": 70
+            },
+            {
+               "skill": "Slayer",
+               "level": 67
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 76
+            }
+         ]
+      },
+      {
+         "name": "The Firemaker's Curse",
+         "url": "https://runescape.wiki/w/The_Firemaker%27s_Curse",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 64
+            },
+            {
+               "skill": "Constitution",
+               "level": 76
+            },
+            {
+               "skill": "Firemaking",
+               "level": 74
+            }
+         ]
+      },
+      {
+         "name": "The Prisoner of Glouphrie",
+         "url": "https://runescape.wiki/w/The_Prisoner_of_Glouphrie",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 64
+            },
+            {
+               "skill": "Construction",
+               "level": 62
+            },
+            {
+               "skill": "Runecrafting",
+               "level": 61
+            },
+            {
+               "skill": "Thieving",
+               "level": 64
+            }
+         ]
+      },
+      {
+         "name": "Within the Light",
+         "url": "https://runescape.wiki/w/Within_the_Light",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 69
+            },
+            {
+               "skill": "Fletching",
+               "level": 70
+            },
+            {
+               "skill": "Ranged",
+               "level": 75
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 75
+            }
+         ]
+      },
+      {
+         "name": "Fate of the Gods",
+         "url": "https://runescape.wiki/w/Fate_of_the_Gods",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 73
+            },
+            {
+               "skill": "Divination",
+               "level": 75
+            },
+            {
+               "skill": "Magic",
+               "level": 79
+            },
+            {
+               "skill": "Slayer",
+               "level": 76
+            },
+            {
+               "skill": "Summoning",
+               "level": 67
+            }
+         ]
+      },
+      {
+         "name": "Plague's End",
+         "url": "https://runescape.wiki/w/Plague%27s_End",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 75
+            },
+            {
+               "skill": "Construction",
+               "level": 75
+            },
+            {
+               "skill": "Crafting",
+               "level": 75
+            },
+            {
+               "skill": "Dungeoneering",
+               "level": 75
+            },
+            {
+               "skill": "Herblore",
+               "level": 75
+            },
+            {
+               "skill": "Mining",
+               "level": 75
+            },
+            {
+               "skill": "Prayer",
+               "level": 75
+            },
+            {
+               "skill": "Ranged",
+               "level": 75
+            },
+            {
+               "skill": "Summoning",
+               "level": 75
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 75
+            }
+         ]
+      },
+      {
+         "name": "Ritual of the Mahjarrat",
+         "url": "https://runescape.wiki/w/Ritual_of_the_Mahjarrat",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 77
+            },
+            {
+               "skill": "Crafting",
+               "level": 76
+            },
+            {
+               "skill": "Mining",
+               "level": 76
+            }
+         ]
+      },
+      {
+         "name": "The Light Within",
+         "url": "https://runescape.wiki/w/The_Light_Within",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 80
+            },
+            {
+               "skill": "Crafting",
+               "level": 80
+            },
+            {
+               "skill": "Divination",
+               "level": 80
+            },
+            {
+               "skill": "Herblore",
+               "level": 80
+            },
+            {
+               "skill": "Prayer",
+               "level": 80
+            },
+            {
+               "skill": "Slayer",
+               "level": 80
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 80
+            }
+         ]
+      },
+      {
+         "name": "Pieces of Hate",
+         "url": "https://runescape.wiki/w/Pieces_of_Hate",
+         "skill_requirements": [
+            {
+               "skill": "Agility",
+               "level": 83
+            },
+            {
+               "skill": "Construction",
+               "level": 81
+            },
+            {
+               "skill": "Firemaking",
+               "level": 82
+            },
+            {
+               "skill": "Thieving",
+               "level": 85
+            }
+         ]
+      },
+      {
+         "name": "Desperate Measures",
+         "url": "https://runescape.wiki/w/Desperate_Measures",
+         "skill_requirements": [
+            {
+               "skill": "Archaeology",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "City of Senntisten",
+         "url": "https://runescape.wiki/w/City_of_Senntisten",
+         "skill_requirements": [
+            {
+               "skill": "Archaeology",
+               "level": 74
+            },
+            {
+               "skill": "Slayer",
+               "level": 75
+            }
+         ]
+      },
+      {
+         "name": "Extinction",
+         "url": "https://runescape.wiki/w/Extinction",
+         "skill_requirements": [
+            {
+               "skill": "Archaeology",
+               "level": 74
+            }
+         ]
+      },
+      {
+         "name": "Another Slice of H.A.M.",
+         "url": "https://runescape.wiki/w/Another_Slice_of_H.A.M.",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 15
+            },
+            {
+               "skill": "Prayer",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "Holy Grail",
+         "url": "https://runescape.wiki/w/Holy_Grail",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Beneath Cursed Tides",
+         "url": "https://runescape.wiki/w/Beneath_Cursed_Tides",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 30
+            },
+            {
+               "skill": "Cooking",
+               "level": 30
+            },
+            {
+               "skill": "Firemaking",
+               "level": 30
+            },
+            {
+               "skill": "Magic",
+               "level": 30
+            },
+            {
+               "skill": "Mining",
+               "level": 30
+            },
+            {
+               "skill": "Smithing",
+               "level": 30
+            },
+            {
+               "skill": "Strength",
+               "level": 30
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Quiet Before the Swarm",
+         "url": "https://runescape.wiki/w/Quiet_Before_the_Swarm",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 35
+            },
+            {
+               "skill": "Strength",
+               "level": 42
+            }
+         ]
+      },
+      {
+         "name": "TokTz-Ket-Dill",
+         "url": "https://runescape.wiki/w/TokTz-Ket-Dill",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 50
+            },
+            {
+               "skill": "Construction",
+               "level": 50
+            },
+            {
+               "skill": "Crafting",
+               "level": 43
+            },
+            {
+               "skill": "Mining",
+               "level": 41
+            },
+            {
+               "skill": "Strength",
+               "level": 45
+            }
+         ]
+      },
+      {
+         "name": "Blood Runs Deep",
+         "url": "https://runescape.wiki/w/Blood_Runs_Deep",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 75
+            },
+            {
+               "skill": "Slayer",
+               "level": 65
+            },
+            {
+               "skill": "Strength",
+               "level": 75
+            }
+         ]
+      },
+      {
+         "name": "The Lord of Vampyrium",
+         "url": "https://runescape.wiki/w/The_Lord_of_Vampyrium",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 75
+            },
+            {
+               "skill": "Constitution",
+               "level": 75
+            },
+            {
+               "skill": "Construction",
+               "level": 79
+            },
+            {
+               "skill": "Defence",
+               "level": 75
+            },
+            {
+               "skill": "Hunter",
+               "level": 76
+            },
+            {
+               "skill": "Slayer",
+               "level": 78
+            },
+            {
+               "skill": "Strength",
+               "level": 75
+            }
+         ]
+      },
+      {
+         "name": "River of Blood",
+         "url": "https://runescape.wiki/w/River_of_Blood",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 78
+            },
+            {
+               "skill": "Constitution",
+               "level": 80
+            },
+            {
+               "skill": "Firemaking",
+               "level": 76
+            },
+            {
+               "skill": "Fletching",
+               "level": 75
+            },
+            {
+               "skill": "Herblore",
+               "level": 80
+            },
+            {
+               "skill": "Magic",
+               "level": 78
+            },
+            {
+               "skill": "Mining",
+               "level": 72
+            },
+            {
+               "skill": "Ranged",
+               "level": 78
+            }
+         ]
+      },
+      {
+         "name": "The Void Stares Back",
+         "url": "https://runescape.wiki/w/The_Void_Stares_Back",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 78
+            },
+            {
+               "skill": "Construction",
+               "level": 70
+            },
+            {
+               "skill": "Crafting",
+               "level": 70
+            },
+            {
+               "skill": "Defence",
+               "level": 25
+            },
+            {
+               "skill": "Firemaking",
+               "level": 71
+            },
+            {
+               "skill": "Magic",
+               "level": 80
+            },
+            {
+               "skill": "Smithing",
+               "level": 70
+            },
+            {
+               "skill": "Strength",
+               "level": 78
+            },
+            {
+               "skill": "Summoning",
+               "level": 55
+            }
+         ]
+      },
+      {
+         "name": "The Mighty Fall",
+         "url": "https://runescape.wiki/w/The_Mighty_Fall",
+         "skill_requirements": [
+            {
+               "skill": "Attack",
+               "level": 79
+            },
+            {
+               "skill": "Constitution",
+               "level": 78
+            },
+            {
+               "skill": "Defence",
+               "level": 72
+            },
+            {
+               "skill": "Slayer",
+               "level": 69
+            },
+            {
+               "skill": "Strength",
+               "level": 79
+            }
+         ]
+      },
+      {
+         "name": "Salt in the Wound",
+         "url": "https://runescape.wiki/w/Salt_in_the_Wound",
+         "skill_requirements": [
+            {
+               "skill": "Constitution",
+               "level": 50
+            },
+            {
+               "skill": "Defence",
+               "level": 60
+            },
+            {
+               "skill": "Dungeoneering",
+               "level": 35
+            },
+            {
+               "skill": "Herblore",
+               "level": 47
+            },
+            {
+               "skill": "Summoning",
+               "level": 45
+            }
+         ]
+      },
+      {
+         "name": "The Eyes of Glouphrie",
+         "url": "https://runescape.wiki/w/The_Eyes_of_Glouphrie",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 5
+            },
+            {
+               "skill": "Magic",
+               "level": 46
+            }
+         ]
+      },
+      {
+         "name": "Tower of Life",
+         "url": "https://runescape.wiki/w/Tower_of_Life",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 10
+            }
+         ]
+      },
+      {
+         "name": "Bringing Home the Bacon",
+         "url": "https://runescape.wiki/w/Bringing_Home_the_Bacon",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 14
+            },
+            {
+               "skill": "Farming",
+               "level": 14
+            },
+            {
+               "skill": "Summoning",
+               "level": 14
+            }
+         ]
+      },
+      {
+         "name": "Rune Mechanics",
+         "url": "https://runescape.wiki/w/Rune_Mechanics",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 25
+            },
+            {
+               "skill": "Magic",
+               "level": 27
+            },
+            {
+               "skill": "Runecrafting",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "The Great Brain Robbery",
+         "url": "https://runescape.wiki/w/The_Great_Brain_Robbery",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 30
+            },
+            {
+               "skill": "Crafting",
+               "level": 16
+            },
+            {
+               "skill": "Prayer",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "Carnillean Rising",
+         "url": "https://runescape.wiki/w/Carnillean_Rising",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 31
+            },
+            {
+               "skill": "Thieving",
+               "level": 33
+            }
+         ]
+      },
+      {
+         "name": "Missing My Mummy",
+         "url": "https://runescape.wiki/w/Missing_My_Mummy",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 35
+            },
+            {
+               "skill": "Cooking",
+               "level": 35
+            },
+            {
+               "skill": "Crafting",
+               "level": 35
+            },
+            {
+               "skill": "Magic",
+               "level": 35
+            },
+            {
+               "skill": "Prayer",
+               "level": 35
+            }
+         ]
+      },
+      {
+         "name": "Spirit of Summer",
+         "url": "https://runescape.wiki/w/Spirit_of_Summer",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 40
+            },
+            {
+               "skill": "Farming",
+               "level": 26
+            },
+            {
+               "skill": "Prayer",
+               "level": 35
+            },
+            {
+               "skill": "Summoning",
+               "level": 19
+            }
+         ]
+      },
+      {
+         "name": "Catapult Construction",
+         "url": "https://runescape.wiki/w/Catapult_Construction",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 44
+            },
+            {
+               "skill": "Fletching",
+               "level": 42
+            }
+         ]
+      },
+      {
+         "name": "Hunt for Red Raktuber",
+         "url": "https://runescape.wiki/w/Hunt_for_Red_Raktuber",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 45
+            },
+            {
+               "skill": "Hunter",
+               "level": 45
+            },
+            {
+               "skill": "Thieving",
+               "level": 38
+            }
+         ]
+      },
+      {
+         "name": "A Void Dance",
+         "url": "https://runescape.wiki/w/A_Void_Dance",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 47
+            },
+            {
+               "skill": "Herblore",
+               "level": 49
+            },
+            {
+               "skill": "Hunter",
+               "level": 46
+            },
+            {
+               "skill": "Mining",
+               "level": 47
+            },
+            {
+               "skill": "Summoning",
+               "level": 48
+            },
+            {
+               "skill": "Thieving",
+               "level": 54
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 52
+            }
+         ]
+      },
+      {
+         "name": "Some Like It Cold",
+         "url": "https://runescape.wiki/w/Some_Like_It_Cold",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 50
+            },
+            {
+               "skill": "Crafting",
+               "level": 56
+            },
+            {
+               "skill": "Fishing",
+               "level": 65
+            }
+         ]
+      },
+      {
+         "name": "Nomad's Requiem",
+         "url": "https://runescape.wiki/w/Nomad%27s_Requiem",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 60
+            },
+            {
+               "skill": "Hunter",
+               "level": 65
+            },
+            {
+               "skill": "Magic",
+               "level": 75
+            },
+            {
+               "skill": "Mining",
+               "level": 66
+            },
+            {
+               "skill": "Prayer",
+               "level": 70
+            }
+         ]
+      },
+      {
+         "name": "A Clockwork Syringe",
+         "url": "https://runescape.wiki/w/A_Clockwork_Syringe",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 62
+            },
+            {
+               "skill": "Defence",
+               "level": 76
+            },
+            {
+               "skill": "Dungeoneering",
+               "level": 50
+            },
+            {
+               "skill": "Slayer",
+               "level": 61
+            },
+            {
+               "skill": "Smithing",
+               "level": 74
+            },
+            {
+               "skill": "Summoning",
+               "level": 65
+            },
+            {
+               "skill": "Thieving",
+               "level": 74
+            }
+         ]
+      },
+      {
+         "name": "Do No Evil",
+         "url": "https://runescape.wiki/w/Do_No_Evil",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 64
+            },
+            {
+               "skill": "Crafting",
+               "level": 68
+            },
+            {
+               "skill": "Magic",
+               "level": 70
+            },
+            {
+               "skill": "Ranged",
+               "level": 50
+            },
+            {
+               "skill": "Thieving",
+               "level": 70
+            }
+         ]
+      },
+      {
+         "name": "Love Story",
+         "url": "https://runescape.wiki/w/Love_Story",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 68
+            },
+            {
+               "skill": "Crafting",
+               "level": 67
+            },
+            {
+               "skill": "Magic",
+               "level": 77
+            },
+            {
+               "skill": "Smithing",
+               "level": 68
+            }
+         ]
+      },
+      {
+         "name": "Nomad's Elegy",
+         "url": "https://runescape.wiki/w/Nomad%27s_Elegy",
+         "skill_requirements": [
+            {
+               "skill": "Construction",
+               "level": 75
+            },
+            {
+               "skill": "Mining",
+               "level": 75
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 75
+            }
+         ]
+      },
+      {
+         "name": "Forgettable Tale of a Drunken Dwarf",
+         "url": "https://runescape.wiki/w/Forgettable_Tale_of_a_Drunken_Dwarf",
+         "skill_requirements": [
+            {
+               "skill": "Cooking",
+               "level": 22
+            },
+            {
+               "skill": "Farming",
+               "level": 17
+            }
+         ]
+      },
+      {
+         "name": "Big Chompy Bird Hunting",
+         "url": "https://runescape.wiki/w/Big_Chompy_Bird_Hunting",
+         "skill_requirements": [
+            {
+               "skill": "Cooking",
+               "level": 30
+            },
+            {
+               "skill": "Fletching",
+               "level": 5
+            },
+            {
+               "skill": "Ranged",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Chef's Assistant",
+         "url": "https://runescape.wiki/w/Chef%27s_Assistant",
+         "skill_requirements": [
+            {
+               "skill": "Cooking",
+               "level": 32
+            }
+         ]
+      },
+      {
+         "name": "Heroes' Quest",
+         "url": "https://runescape.wiki/w/Heroes%27_Quest",
+         "skill_requirements": [
+            {
+               "skill": "Cooking",
+               "level": 53
+            },
+            {
+               "skill": "Fishing",
+               "level": 53
+            },
+            {
+               "skill": "Herblore",
+               "level": 25
+            },
+            {
+               "skill": "Mining",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "Swan Song",
+         "url": "https://runescape.wiki/w/Swan_Song",
+         "skill_requirements": [
+            {
+               "skill": "Cooking",
+               "level": 62
+            },
+            {
+               "skill": "Crafting",
+               "level": 40
+            },
+            {
+               "skill": "Firemaking",
+               "level": 42
+            },
+            {
+               "skill": "Fishing",
+               "level": 62
+            },
+            {
+               "skill": "Magic",
+               "level": 66
+            },
+            {
+               "skill": "Smithing",
+               "level": 45
+            }
+         ]
+      },
+      {
+         "name": "Gunnar's Ground",
+         "url": "https://runescape.wiki/w/Gunnar%27s_Ground",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 5
+            }
+         ]
+      },
+      {
+         "name": "Observatory Quest",
+         "url": "https://runescape.wiki/w/Observatory_Quest",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 10
+            }
+         ]
+      },
+      {
+         "name": "The Giant Dwarf",
+         "url": "https://runescape.wiki/w/The_Giant_Dwarf",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 12
+            },
+            {
+               "skill": "Firemaking",
+               "level": 16
+            },
+            {
+               "skill": "Magic",
+               "level": 33
+            },
+            {
+               "skill": "Thieving",
+               "level": 14
+            }
+         ]
+      },
+      {
+         "name": "Animal Magnetism",
+         "url": "https://runescape.wiki/w/Animal_Magnetism",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 19
+            },
+            {
+               "skill": "Ranged",
+               "level": 30
+            },
+            {
+               "skill": "Slayer",
+               "level": 18
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 35
+            }
+         ]
+      },
+      {
+         "name": "Creature of Fenkenstrain",
+         "url": "https://runescape.wiki/w/Creature_of_Fenkenstrain",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 20
+            },
+            {
+               "skill": "Thieving",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "Elemental Workshop I",
+         "url": "https://runescape.wiki/w/Elemental_Workshop_I",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 20
+            },
+            {
+               "skill": "Mining",
+               "level": 20
+            },
+            {
+               "skill": "Smithing",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "The Golem",
+         "url": "https://runescape.wiki/w/The_Golem",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 20
+            },
+            {
+               "skill": "Thieving",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "Shades of Mort'ton",
+         "url": "https://runescape.wiki/w/Shades_of_Mort%27ton",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 20
+            },
+            {
+               "skill": "Herblore",
+               "level": 15
+            }
+         ]
+      },
+      {
+         "name": "Tears of Guthix",
+         "url": "https://runescape.wiki/w/Tears_of_Guthix_(quest)",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 20
+            },
+            {
+               "skill": "Firemaking",
+               "level": 49
+            },
+            {
+               "skill": "Mining",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "In Aid of the Myreque",
+         "url": "https://runescape.wiki/w/In_Aid_of_the_Myreque",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 25
+            },
+            {
+               "skill": "Magic",
+               "level": 7
+            },
+            {
+               "skill": "Mining",
+               "level": 15
+            }
+         ]
+      },
+      {
+         "name": "Smoking Kills",
+         "url": "https://runescape.wiki/w/Smoking_Kills",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 25
+            },
+            {
+               "skill": "Slayer",
+               "level": 35
+            }
+         ]
+      },
+      {
+         "name": "Shadow of the Storm",
+         "url": "https://runescape.wiki/w/Shadow_of_the_Storm",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Slug Menace",
+         "url": "https://runescape.wiki/w/Slug_Menace",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 30
+            },
+            {
+               "skill": "Runecrafting",
+               "level": 30
+            },
+            {
+               "skill": "Slayer",
+               "level": 30
+            },
+            {
+               "skill": "Thieving",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Lost City",
+         "url": "https://runescape.wiki/w/Lost_City",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 31
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 36
+            }
+         ]
+      },
+      {
+         "name": "Enlightened Journey",
+         "url": "https://runescape.wiki/w/Enlightened_Journey",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 36
+            },
+            {
+               "skill": "Farming",
+               "level": 30
+            },
+            {
+               "skill": "Firemaking",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "A Fairy Tale III - Battle at Ork's Rift",
+         "url": "https://runescape.wiki/w/A_Fairy_Tale_III_-_Battle_at_Ork%27s_Rift",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 36
+            },
+            {
+               "skill": "Farming",
+               "level": 54
+            },
+            {
+               "skill": "Magic",
+               "level": 59
+            },
+            {
+               "skill": "Summoning",
+               "level": 37
+            },
+            {
+               "skill": "Thieving",
+               "level": 51
+            }
+         ]
+      },
+      {
+         "name": "The Fremennik Trials",
+         "url": "https://runescape.wiki/w/The_Fremennik_Trials",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 40
+            },
+            {
+               "skill": "Fletching",
+               "level": 25
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 40
+            }
+         ]
+      },
+      {
+         "name": "Family Crest",
+         "url": "https://runescape.wiki/w/Family_Crest",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 40
+            },
+            {
+               "skill": "Magic",
+               "level": 59
+            },
+            {
+               "skill": "Mining",
+               "level": 40
+            },
+            {
+               "skill": "Smithing",
+               "level": 40
+            }
+         ]
+      },
+      {
+         "name": "Elemental Workshop IV",
+         "url": "https://runescape.wiki/w/Elemental_Workshop_IV",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 41
+            },
+            {
+               "skill": "Defence",
+               "level": 40
+            },
+            {
+               "skill": "Runecrafting",
+               "level": 39
+            },
+            {
+               "skill": "Smithing",
+               "level": 42
+            },
+            {
+               "skill": "Thieving",
+               "level": 39
+            }
+         ]
+      },
+      {
+         "name": "Rum Deal",
+         "url": "https://runescape.wiki/w/Rum_Deal",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 42
+            },
+            {
+               "skill": "Farming",
+               "level": 40
+            },
+            {
+               "skill": "Fishing",
+               "level": 50
+            },
+            {
+               "skill": "Prayer",
+               "level": 47
+            },
+            {
+               "skill": "Slayer",
+               "level": 42
+            }
+         ]
+      },
+      {
+         "name": "The Hand in the Sand",
+         "url": "https://runescape.wiki/w/The_Hand_in_the_Sand",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 49
+            },
+            {
+               "skill": "Thieving",
+               "level": 17
+            }
+         ]
+      },
+      {
+         "name": "Enakhra's Lament",
+         "url": "https://runescape.wiki/w/Enakhra%27s_Lament",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 50
+            },
+            {
+               "skill": "Firemaking",
+               "level": 45
+            },
+            {
+               "skill": "Magic",
+               "level": 39
+            }
+         ]
+      },
+      {
+         "name": "In Pyre Need",
+         "url": "https://runescape.wiki/w/In_Pyre_Need",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 52
+            },
+            {
+               "skill": "Firemaking",
+               "level": 55
+            },
+            {
+               "skill": "Fletching",
+               "level": 53
+            }
+         ]
+      },
+      {
+         "name": "Lunar Diplomacy",
+         "url": "https://runescape.wiki/w/Lunar_Diplomacy",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 61
+            },
+            {
+               "skill": "Defence",
+               "level": 40
+            },
+            {
+               "skill": "Firemaking",
+               "level": 49
+            },
+            {
+               "skill": "Herblore",
+               "level": 5
+            },
+            {
+               "skill": "Magic",
+               "level": 65
+            },
+            {
+               "skill": "Mining",
+               "level": 60
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 55
+            }
+         ]
+      },
+      {
+         "name": "Sins of the Father",
+         "url": "https://runescape.wiki/w/Sins_of_the_Father",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 85
+            },
+            {
+               "skill": "Invention",
+               "level": 85
+            },
+            {
+               "skill": "Runecrafting",
+               "level": 85
+            }
+         ]
+      },
+      {
+         "name": "Jed Hunter",
+         "url": "https://runescape.wiki/w/Jed_Hunter",
+         "skill_requirements": [
+            {
+               "skill": "Crafting",
+               "level": 91
+            }
+         ]
+      },
+      {
+         "name": "Between a Rock...",
+         "url": "https://runescape.wiki/w/Between_a_Rock...",
+         "skill_requirements": [
+            {
+               "skill": "Defence",
+               "level": 30
+            },
+            {
+               "skill": "Mining",
+               "level": 40
+            },
+            {
+               "skill": "Smithing",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "Elemental Workshop III",
+         "url": "https://runescape.wiki/w/Elemental_Workshop_III",
+         "skill_requirements": [
+            {
+               "skill": "Defence",
+               "level": 33
+            },
+            {
+               "skill": "Smithing",
+               "level": 33
+            }
+         ]
+      },
+      {
+         "name": "King's Ransom",
+         "url": "https://runescape.wiki/w/King%27s_Ransom",
+         "skill_requirements": [
+            {
+               "skill": "Defence",
+               "level": 65
+            },
+            {
+               "skill": "Magic",
+               "level": 45
+            }
+         ]
+      },
+      {
+         "name": "While Guthix Sleeps",
+         "url": "https://runescape.wiki/w/While_Guthix_Sleeps",
+         "skill_requirements": [
+            {
+               "skill": "Defence",
+               "level": 65
+            },
+            {
+               "skill": "Farming",
+               "level": 65
+            },
+            {
+               "skill": "Herblore",
+               "level": 65
+            },
+            {
+               "skill": "Hunter",
+               "level": 55
+            },
+            {
+               "skill": "Magic",
+               "level": 75
+            },
+            {
+               "skill": "Summoning",
+               "level": 23
+            },
+            {
+               "skill": "Thieving",
+               "level": 60
+            }
+         ]
+      },
+      {
+         "name": "The Brink of Extinction",
+         "url": "https://runescape.wiki/w/The_Brink_of_Extinction",
+         "skill_requirements": [
+            {
+               "skill": "Defence",
+               "level": 80
+            },
+            {
+               "skill": "Mining",
+               "level": 72
+            },
+            {
+               "skill": "Smithing",
+               "level": 80
+            }
+         ]
+      },
+      {
+         "name": "One of a Kind",
+         "url": "https://runescape.wiki/w/One_of_a_Kind",
+         "skill_requirements": [
+            {
+               "skill": "Divination",
+               "level": 40
+            },
+            {
+               "skill": "Dungeoneering",
+               "level": 67
+            },
+            {
+               "skill": "Magic",
+               "level": 81
+            },
+            {
+               "skill": "Summoning",
+               "level": 74
+            }
+         ]
+      },
+      {
+         "name": "Back to the Freezer",
+         "url": "https://runescape.wiki/w/Back_to_the_Freezer",
+         "skill_requirements": [
+            {
+               "skill": "Divination",
+               "level": 50
+            },
+            {
+               "skill": "Runecrafting",
+               "level": 45
+            },
+            {
+               "skill": "Slayer",
+               "level": 37
+            }
+         ]
+      },
+      {
+         "name": "Desperate Times",
+         "url": "https://runescape.wiki/w/Desperate_Times",
+         "skill_requirements": [
+            {
+               "skill": "Divination",
+               "level": 50
+            },
+            {
+               "skill": "Mining",
+               "level": 50
+            },
+            {
+               "skill": "Smithing",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "Hero's Welcome",
+         "url": "https://runescape.wiki/w/Hero%27s_Welcome",
+         "skill_requirements": [
+            {
+               "skill": "Divination",
+               "level": 60
+            },
+            {
+               "skill": "Mining",
+               "level": 67
+            },
+            {
+               "skill": "Slayer",
+               "level": 62
+            },
+            {
+               "skill": "Smithing",
+               "level": 67
+            }
+         ]
+      },
+      {
+         "name": "Mahjarrat Memories",
+         "url": "https://runescape.wiki/w/Mahjarrat_Memories",
+         "skill_requirements": [
+            {
+               "skill": "Divination",
+               "level": 60
+            }
+         ]
+      },
+      {
+         "name": "Twilight of the Gods",
+         "url": "https://runescape.wiki/w/Twilight_of_the_Gods",
+         "skill_requirements": [
+            {
+               "skill": "Divination",
+               "level": 80
+            }
+         ]
+      },
+      {
+         "name": "Perils of Ice Mountain",
+         "url": "https://runescape.wiki/w/Perils_of_Ice_Mountain",
+         "skill_requirements": [
+            {
+               "skill": "Farming",
+               "level": 5
+            },
+            {
+               "skill": "Hunter",
+               "level": 5
+            },
+            {
+               "skill": "Thieving",
+               "level": 5
+            }
+         ]
+      },
+      {
+         "name": "Garden of Tranquillity",
+         "url": "https://runescape.wiki/w/Garden_of_Tranquillity",
+         "skill_requirements": [
+            {
+               "skill": "Farming",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "My Arm's Big Adventure",
+         "url": "https://runescape.wiki/w/My_Arm%27s_Big_Adventure",
+         "skill_requirements": [
+            {
+               "skill": "Farming",
+               "level": 29
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 10
+            }
+         ]
+      },
+      {
+         "name": "A Fairy Tale II - Cure a Queen",
+         "url": "https://runescape.wiki/w/A_Fairy_Tale_II_-_Cure_a_Queen",
+         "skill_requirements": [
+            {
+               "skill": "Farming",
+               "level": 49
+            },
+            {
+               "skill": "Herblore",
+               "level": 57
+            },
+            {
+               "skill": "Thieving",
+               "level": 40
+            }
+         ]
+      },
+      {
+         "name": "The Tale of Muspah",
+         "url": "https://runescape.wiki/w/The_Tale_of_Muspah",
+         "skill_requirements": [
+            {
+               "skill": "Firemaking",
+               "level": 6
+            },
+            {
+               "skill": "Magic",
+               "level": 10
+            },
+            {
+               "skill": "Mining",
+               "level": 8
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 10
+            }
+         ]
+      },
+      {
+         "name": "Sea Slug",
+         "url": "https://runescape.wiki/w/Sea_Slug",
+         "skill_requirements": [
+            {
+               "skill": "Firemaking",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Olaf's Quest",
+         "url": "https://runescape.wiki/w/Olaf%27s_Quest",
+         "skill_requirements": [
+            {
+               "skill": "Firemaking",
+               "level": 40
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "All Fired Up",
+         "url": "https://runescape.wiki/w/All_Fired_Up",
+         "skill_requirements": [
+            {
+               "skill": "Firemaking",
+               "level": 43
+            }
+         ]
+      },
+      {
+         "name": "Summer's End",
+         "url": "https://runescape.wiki/w/Summer%27s_End",
+         "skill_requirements": [
+            {
+               "skill": "Firemaking",
+               "level": 47
+            },
+            {
+               "skill": "Hunter",
+               "level": 35
+            },
+            {
+               "skill": "Mining",
+               "level": 45
+            },
+            {
+               "skill": "Prayer",
+               "level": 55
+            },
+            {
+               "skill": "Summoning",
+               "level": 23
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 37
+            }
+         ]
+      },
+      {
+         "name": "Desert Treasure",
+         "url": "https://runescape.wiki/w/Desert_Treasure",
+         "skill_requirements": [
+            {
+               "skill": "Firemaking",
+               "level": 50
+            },
+            {
+               "skill": "Magic",
+               "level": 50
+            },
+            {
+               "skill": "Slayer",
+               "level": 10
+            },
+            {
+               "skill": "Thieving",
+               "level": 53
+            }
+         ]
+      },
+      {
+         "name": "As a First Resort",
+         "url": "https://runescape.wiki/w/As_a_First_Resort",
+         "skill_requirements": [
+            {
+               "skill": "Firemaking",
+               "level": 51
+            },
+            {
+               "skill": "Hunter",
+               "level": 48
+            },
+            {
+               "skill": "Woodcutting",
+               "level": 58
+            }
+         ]
+      },
+      {
+         "name": "Forgiveness of a Chaos Dwarf",
+         "url": "https://runescape.wiki/w/Forgiveness_of_a_Chaos_Dwarf",
+         "skill_requirements": [
+            {
+               "skill": "Firemaking",
+               "level": 61
+            },
+            {
+               "skill": "Hunter",
+               "level": 61
+            },
+            {
+               "skill": "Strength",
+               "level": 69
+            }
+         ]
+      },
+      {
+         "name": "Fishing Contest",
+         "url": "https://runescape.wiki/w/Fishing_Contest",
+         "skill_requirements": [
+            {
+               "skill": "Fishing",
+               "level": 10
+            }
+         ]
+      },
+      {
+         "name": "Deadliest Catch",
+         "url": "https://runescape.wiki/w/Deadliest_Catch",
+         "skill_requirements": [
+            {
+               "skill": "Fishing",
+               "level": 70
+            },
+            {
+               "skill": "Hunter",
+               "level": 67
+            },
+            {
+               "skill": "Thieving",
+               "level": 70
+            }
+         ]
+      },
+      {
+         "name": "The Tourist Trap",
+         "url": "https://runescape.wiki/w/The_Tourist_Trap",
+         "skill_requirements": [
+            {
+               "skill": "Fletching",
+               "level": 10
+            },
+            {
+               "skill": "Smithing",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "Zogre Flesh Eaters",
+         "url": "https://runescape.wiki/w/Zogre_Flesh_Eaters",
+         "skill_requirements": [
+            {
+               "skill": "Fletching",
+               "level": 30
+            },
+            {
+               "skill": "Herblore",
+               "level": 8
+            },
+            {
+               "skill": "Ranged",
+               "level": 30
+            },
+            {
+               "skill": "Smithing",
+               "level": 4
+            },
+            {
+               "skill": "Strength",
+               "level": 20
+            }
+         ]
+      },
+      {
+         "name": "Devious Minds",
+         "url": "https://runescape.wiki/w/Devious_Minds",
+         "skill_requirements": [
+            {
+               "skill": "Fletching",
+               "level": 50
+            },
+            {
+               "skill": "Runecrafting",
+               "level": 50
+            },
+            {
+               "skill": "Smithing",
+               "level": 65
+            }
+         ]
+      },
+      {
+         "name": "Jungle Potion",
+         "url": "https://runescape.wiki/w/Jungle_Potion",
+         "skill_requirements": [
+            {
+               "skill": "Herblore",
+               "level": 3
+            }
+         ]
+      },
+      {
+         "name": "Eadgar's Ruse",
+         "url": "https://runescape.wiki/w/Eadgar%27s_Ruse",
+         "skill_requirements": [
+            {
+               "skill": "Herblore",
+               "level": 31
+            }
+         ]
+      },
+      {
+         "name": "Eagles' Peak",
+         "url": "https://runescape.wiki/w/Eagles%27_Peak",
+         "skill_requirements": [
+            {
+               "skill": "Hunter",
+               "level": 27
+            }
+         ]
+      },
+      {
+         "name": "Making History",
+         "url": "https://runescape.wiki/w/Making_History",
+         "skill_requirements": [
+            {
+               "skill": "Magic",
+               "level": 7
+            },
+            {
+               "skill": "Smithing",
+               "level": 40
+            }
+         ]
+      },
+      {
+         "name": "Elemental Workshop II",
+         "url": "https://runescape.wiki/w/Elemental_Workshop_II",
+         "skill_requirements": [
+            {
+               "skill": "Magic",
+               "level": 20
+            },
+            {
+               "skill": "Smithing",
+               "level": 30
+            }
+         ]
+      },
+      {
+         "name": "Spirits of the Elid",
+         "url": "https://runescape.wiki/w/Spirits_of_the_Elid",
+         "skill_requirements": [
+            {
+               "skill": "Magic",
+               "level": 33
+            },
+            {
+               "skill": "Mining",
+               "level": 37
+            },
+            {
+               "skill": "Ranged",
+               "level": 37
+            },
+            {
+               "skill": "Thieving",
+               "level": 37
+            }
+         ]
+      },
+      {
+         "name": "Heart of Stone",
+         "url": "https://runescape.wiki/w/Heart_of_Stone",
+         "skill_requirements": [
+            {
+               "skill": "Magic",
+               "level": 35
+            },
+            {
+               "skill": "Runecrafting",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "The Knight's Sword",
+         "url": "https://runescape.wiki/w/The_Knight%27s_Sword",
+         "skill_requirements": [
+            {
+               "skill": "Mining",
+               "level": 10
+            }
+         ]
+      },
+      {
+         "name": "Kennith's Concerns",
+         "url": "https://runescape.wiki/w/Kennith%27s_Concerns",
+         "skill_requirements": [
+            {
+               "skill": "Mining",
+               "level": 46
+            }
+         ]
+      },
+      {
+         "name": "King of the Dwarves",
+         "url": "https://runescape.wiki/w/King_of_the_Dwarves",
+         "skill_requirements": [
+            {
+               "skill": "Mining",
+               "level": 68
+            },
+            {
+               "skill": "Smithing",
+               "level": 70
+            },
+            {
+               "skill": "Strength",
+               "level": 77
+            }
+         ]
+      },
+      {
+         "name": "Birthright of the Dwarves",
+         "url": "https://runescape.wiki/w/Birthright_of_the_Dwarves",
+         "skill_requirements": [
+            {
+               "skill": "Mining",
+               "level": 80
+            },
+            {
+               "skill": "Smithing",
+               "level": 82
+            },
+            {
+               "skill": "Strength",
+               "level": 85
+            }
+         ]
+      },
+      {
+         "name": "Nature Spirit",
+         "url": "https://runescape.wiki/w/Nature_Spirit",
+         "skill_requirements": [
+            {
+               "skill": "Prayer",
+               "level": 10
+            }
+         ]
+      },
+      {
+         "name": "Scorpion Catcher",
+         "url": "https://runescape.wiki/w/Scorpion_Catcher",
+         "skill_requirements": [
+            {
+               "skill": "Prayer",
+               "level": 31
+            }
+         ]
+      },
+      {
+         "name": "The Temple at Senntisten",
+         "url": "https://runescape.wiki/w/The_Temple_at_Senntisten",
+         "skill_requirements": [
+            {
+               "skill": "Prayer",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "Underground Pass",
+         "url": "https://runescape.wiki/w/Underground_Pass_(quest)",
+         "skill_requirements": [
+            {
+               "skill": "Ranged",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "Temple of Ikov",
+         "url": "https://runescape.wiki/w/Temple_of_Ikov",
+         "skill_requirements": [
+            {
+               "skill": "Ranged",
+               "level": 40
+            },
+            {
+               "skill": "Thieving",
+               "level": 42
+            }
+         ]
+      },
+      {
+         "name": "Mourning's End Part I",
+         "url": "https://runescape.wiki/w/Mourning%27s_End_Part_I",
+         "skill_requirements": [
+            {
+               "skill": "Ranged",
+               "level": 60
+            },
+            {
+               "skill": "Thieving",
+               "level": 50
+            }
+         ]
+      },
+      {
+         "name": "What Lies Below",
+         "url": "https://runescape.wiki/w/What_Lies_Below",
+         "skill_requirements": [
+            {
+               "skill": "Runecrafting",
+               "level": 35
+            }
+         ]
+      },
+      {
+         "name": "Fur 'n Seek",
+         "url": "https://runescape.wiki/w/Fur_%27n_Seek",
+         "skill_requirements": [
+            {
+               "skill": "Slayer",
+               "level": 25
+            }
+         ]
+      },
+      {
+         "name": "What's Mine is Yours",
+         "url": "https://runescape.wiki/w/What%27s_Mine_is_Yours",
+         "skill_requirements": [
+            {
+               "skill": "Smithing",
+               "level": 5
+            }
+         ]
+      },
+      {
+         "name": "Sins of the Father (miniquest)",
+         "url": "https://runescape.wiki/w/Sins_of_the_Father",
+         "skill_requirements": [
+            {
+               "skill": "Smithing",
+               "level": 85
+            }
+         ]
+      },
+      {
+         "name": "Buyers and Cellars",
+         "url": "https://runescape.wiki/w/Buyers_and_Cellars",
+         "skill_requirements": [
+            {
+               "skill": "Thieving",
+               "level": 5
+            }
+         ]
+      },
+      {
+         "name": "Tribal Totem",
+         "url": "https://runescape.wiki/w/Tribal_Totem",
+         "skill_requirements": [
+            {
+               "skill": "Thieving",
+               "level": 21
+            }
+         ]
+      },
+      {
+         "name": "The Feud",
+         "url": "https://runescape.wiki/w/The_Feud",
+         "skill_requirements": [
+            {
+               "skill": "Thieving",
+               "level": 30
+            }
+         ]
+      }
+   ]
+}
