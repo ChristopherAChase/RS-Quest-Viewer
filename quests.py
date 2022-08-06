@@ -1,6 +1,5 @@
 from tracemalloc import get_traceback_limit
 import requests
-import json
 from utils.constants import QUEST_LIST_LINK_SUFFIX, BASE_WIKI_LINK
 from bs4 import BeautifulSoup, NavigableString
 
@@ -27,7 +26,7 @@ def get_row_data(table_rows: NavigableString):
         quest_details = {}
         for col_index, td in enumerate(tr):
             if col_index < len(tr) - 1:
-                quest_details[header[col_index]] = td.text.strip().replace('\n', '')
+                quest_details[header[col_index]] = td.text.strip().replace('\n', '').title()
                 if col_index == 0:
                     quest_details["URL"] = f"{BASE_WIKI_LINK}{td.find('a')['href']}"
                     quest_details["Quick_Guide_URL"] = f"{BASE_WIKI_LINK}{td.find('a')['href']}/Quick_guide"
@@ -44,6 +43,3 @@ def get_row_data(table_rows: NavigableString):
     
 def get_quest_dictionary():
     return {'Quests': get_row_data(table_rows = get_table_rows(table = get_quest_table()))}
-
-with open("./Data/quest_dictionary.json", "w", encoding='utf-8') as file:
-    file.write(str(json.dumps(get_quest_dictionary(), indent=3)))
