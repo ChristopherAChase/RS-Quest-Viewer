@@ -1,0 +1,3541 @@
+{
+   "Quests": [
+      {
+         "Name": "Imp Catcher",
+         "URL": "https://runescape.wiki/w/Imp_Catcher",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Imp_Catcher/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Cook's Assistant",
+         "URL": "https://runescape.wiki/w/Cook%27s_Assistant",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Cook%27s_Assistant/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "The Knight's Sword",
+         "URL": "https://runescape.wiki/w/The_Knight%27s_Sword",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Knight%27s_Sword/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Intermediate",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Rune Mysteries",
+         "URL": "https://runescape.wiki/w/Rune_Mysteries",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Rune_Mysteries/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Signature Heroes",
+               "URL": "https://runescape.wiki/w/Signature_Heroes_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Pirate's Treasure",
+         "URL": "https://runescape.wiki/w/Pirate%27s_Treasure",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Pirate%27s_Treasure/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Pirate",
+               "URL": "https://runescape.wiki/w/Pirate_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Goblin Diplomacy",
+         "URL": "https://runescape.wiki/w/Goblin_Diplomacy",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Goblin_Diplomacy/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "5",
+         "Series": [
+            {
+               "Name": "Dorgeshuun",
+               "URL": "https://runescape.wiki/w/Dorgeshuun_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Restless Ghost",
+         "URL": "https://runescape.wiki/w/The_Restless_Ghost",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Restless_Ghost/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Vampyre Slayer",
+         "URL": "https://runescape.wiki/w/Vampyre_Slayer",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Vampyre_Slayer/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": []
+      },
+      {
+         "Name": "Shield of Arrav",
+         "URL": "https://runescape.wiki/w/Shield_of_Arrav",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Shield_of_Arrav/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            },
+            {
+               "Name": "Arrav",
+               "URL": "https://runescape.wiki/w/Arrav_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Ernest the Chicken",
+         "URL": "https://runescape.wiki/w/Ernest_the_Chicken",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Ernest_the_Chicken/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "4",
+         "Series": []
+      },
+      {
+         "Name": "Dragon Slayer",
+         "URL": "https://runescape.wiki/w/Dragon_Slayer",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Dragon_Slayer/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Lost City",
+         "URL": "https://runescape.wiki/w/Lost_City",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Lost_City/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Fairy Tale",
+               "URL": "https://runescape.wiki/w/Fairy_Tale_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Elemental Workshop I",
+         "URL": "https://runescape.wiki/w/Elemental_Workshop_I",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Elemental_Workshop_I/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Elemental Workshop",
+               "URL": "https://runescape.wiki/w/Elemental_Workshop_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Royal Trouble",
+         "URL": "https://runescape.wiki/w/Royal_Trouble",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Royal_Trouble/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Swan Song",
+         "URL": "https://runescape.wiki/w/Swan_Song",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Swan_Song/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Wise Old Man",
+               "URL": "https://runescape.wiki/w/List_of_quest_series#Wise_Old_Man_series"
+            }
+         ]
+      },
+      {
+         "Name": "Recruitment Drive",
+         "URL": "https://runescape.wiki/w/Recruitment_Drive",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Recruitment_Drive/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Temple Knight",
+               "URL": "https://runescape.wiki/w/Temple_Knight_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Priest in Peril",
+         "URL": "https://runescape.wiki/w/Priest_in_Peril",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Priest_in_Peril/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Myreque",
+               "URL": "https://runescape.wiki/w/Myreque_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Monkey Madness",
+         "URL": "https://runescape.wiki/w/Monkey_Madness",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Monkey_Madness/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Gnome",
+               "URL": "https://runescape.wiki/w/Gnome_quest_series"
+            },
+            {
+               "Name": "Monkey",
+               "URL": "https://runescape.wiki/w/Monkey_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Recipe for Disaster",
+         "URL": "https://runescape.wiki/w/Recipe_for_Disaster",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Recipe_for_Disaster/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Special",
+         "Length": "Very, Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "10",
+         "Series": []
+      },
+      {
+         "Name": "Lunar Diplomacy",
+         "URL": "https://runescape.wiki/w/Lunar_Diplomacy",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Lunar_Diplomacy/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Rum Deal",
+         "URL": "https://runescape.wiki/w/Rum_Deal",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Rum_Deal/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Pirate",
+               "URL": "https://runescape.wiki/w/Pirate_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Desert Treasure",
+         "URL": "https://runescape.wiki/w/Desert_Treasure",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Desert_Treasure/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Return of Zaros",
+               "URL": "https://runescape.wiki/w/Return_of_Zaros_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Heroes' Quest",
+         "URL": "https://runescape.wiki/w/Heroes%27_Quest",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Heroes%27_Quest/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Death to the Dorgeshuun",
+         "URL": "https://runescape.wiki/w/Death_to_the_Dorgeshuun",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Death_to_the_Dorgeshuun/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Dorgeshuun",
+               "URL": "https://runescape.wiki/w/Dorgeshuun_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "A Fairy Tale II - Cure a Queen",
+         "URL": "https://runescape.wiki/w/A_Fairy_Tale_II_-_Cure_a_Queen",
+         "Quick_Guide_URL": "https://runescape.wiki/w/A_Fairy_Tale_II_-_Cure_a_Queen/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Fairy Tale",
+               "URL": "https://runescape.wiki/w/Fairy_Tale_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Eyes of Glouphrie",
+         "URL": "https://runescape.wiki/w/The_Eyes_of_Glouphrie",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Eyes_of_Glouphrie/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Gnome",
+               "URL": "https://runescape.wiki/w/Gnome_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Between a Rock...",
+         "URL": "https://runescape.wiki/w/Between_a_Rock...",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Between_a_Rock.../Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Rise of the Red Axe",
+               "URL": "https://runescape.wiki/w/Rise_of_the_Red_Axe_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Temple of Ikov",
+         "URL": "https://runescape.wiki/w/Temple_of_Ikov",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Temple_of_Ikov/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            },
+            {
+               "Name": "The Rise of Lucien",
+               "URL": "https://runescape.wiki/w/The_Rise_of_Lucien_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Rag and Bone Man",
+         "URL": "https://runescape.wiki/w/Rag_and_Bone_Man",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Rag_and_Bone_Man/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "A Soul's Bane",
+         "URL": "https://runescape.wiki/w/A_Soul%27s_Bane",
+         "Quick_Guide_URL": "https://runescape.wiki/w/A_Soul%27s_Bane/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "In Aid of the Myreque",
+         "URL": "https://runescape.wiki/w/In_Aid_of_the_Myreque",
+         "Quick_Guide_URL": "https://runescape.wiki/w/In_Aid_of_the_Myreque/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Myreque",
+               "URL": "https://runescape.wiki/w/Myreque_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Sea Slug",
+         "URL": "https://runescape.wiki/w/Sea_Slug",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Sea_Slug/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Sea Slug series",
+               "URL": "https://runescape.wiki/w/Sea_Slug_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Sheep Herder",
+         "URL": "https://runescape.wiki/w/Sheep_Herder",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Sheep_Herder/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "4",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Big Chompy Bird Hunting",
+         "URL": "https://runescape.wiki/w/Big_Chompy_Bird_Hunting",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Big_Chompy_Bird_Hunting/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "The Fremennik Trials",
+         "URL": "https://runescape.wiki/w/The_Fremennik_Trials",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Fremennik_Trials/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Darkness of Hallowvale",
+         "URL": "https://runescape.wiki/w/The_Darkness_of_Hallowvale",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Darkness_of_Hallowvale/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Myreque",
+               "URL": "https://runescape.wiki/w/Myreque_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Shades of Mort'ton",
+         "URL": "https://runescape.wiki/w/Shades_of_Mort%27ton",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Shades_of_Mort%27ton/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": []
+      },
+      {
+         "Name": "Murder Mystery",
+         "URL": "https://runescape.wiki/w/Murder_Mystery",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Murder_Mystery/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Sinclair",
+               "URL": "https://runescape.wiki/w/Sinclair_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Plague City",
+         "URL": "https://runescape.wiki/w/Plague_City",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Plague_City/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Legends' Quest",
+         "URL": "https://runescape.wiki/w/Legends%27_Quest",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Legends%27_Quest/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long to Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "4",
+         "Series": []
+      },
+      {
+         "Name": "Scorpion Catcher",
+         "URL": "https://runescape.wiki/w/Scorpion_Catcher",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Scorpion_Catcher/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "The Slug Menace",
+         "URL": "https://runescape.wiki/w/The_Slug_Menace",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Slug_Menace/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Sea Slug series",
+               "URL": "https://runescape.wiki/w/Sea_Slug_quest_series"
+            },
+            {
+               "Name": "Temple Knight",
+               "URL": "https://runescape.wiki/w/Temple_Knight_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Underground Pass",
+         "URL": "https://runescape.wiki/w/Underground_Pass",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Underground_Pass/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long to Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "5",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Throne of Miscellania",
+         "URL": "https://runescape.wiki/w/Throne_of_Miscellania",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Throne_of_Miscellania/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Ghosts Ahoy",
+         "URL": "https://runescape.wiki/w/Ghosts_Ahoy",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Ghosts_Ahoy/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Biohazard",
+         "URL": "https://runescape.wiki/w/Biohazard",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Biohazard/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "A Fairy Tale I - Growing Pains",
+         "URL": "https://runescape.wiki/w/A_Fairy_Tale_I_-_Growing_Pains",
+         "Quick_Guide_URL": "https://runescape.wiki/w/A_Fairy_Tale_I_-_Growing_Pains/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Fairy Tale",
+               "URL": "https://runescape.wiki/w/Fairy_Tale_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Regicide",
+         "URL": "https://runescape.wiki/w/Regicide",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Regicide/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Nature Spirit",
+         "URL": "https://runescape.wiki/w/Nature_Spirit",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Nature_Spirit/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Myreque",
+               "URL": "https://runescape.wiki/w/Myreque_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Elemental Workshop II",
+         "URL": "https://runescape.wiki/w/Elemental_Workshop_II",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Elemental_Workshop_II/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Elemental Workshop",
+               "URL": "https://runescape.wiki/w/Elemental_Workshop_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Horror from the Deep",
+         "URL": "https://runescape.wiki/w/Horror_from_the_Deep",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Horror_from_the_Deep/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Holy Grail",
+         "URL": "https://runescape.wiki/w/Holy_Grail",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Holy_Grail/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Camelot",
+               "URL": "https://runescape.wiki/w/Camelot_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "In Search of the Myreque",
+         "URL": "https://runescape.wiki/w/In_Search_of_the_Myreque",
+         "Quick_Guide_URL": "https://runescape.wiki/w/In_Search_of_the_Myreque/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Myreque",
+               "URL": "https://runescape.wiki/w/Myreque_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Merlin's Crystal",
+         "URL": "https://runescape.wiki/w/Merlin%27s_Crystal",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Merlin%27s_Crystal/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "6",
+         "Series": [
+            {
+               "Name": "Camelot",
+               "URL": "https://runescape.wiki/w/Camelot_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Tears of Guthix",
+         "URL": "https://runescape.wiki/w/Tears_of_Guthix_(quest)",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Tears_of_Guthix_(quest)/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "One Small Favour",
+         "URL": "https://runescape.wiki/w/One_Small_Favour",
+         "Quick_Guide_URL": "https://runescape.wiki/w/One_Small_Favour/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Zogre Flesh Eaters",
+         "URL": "https://runescape.wiki/w/Zogre_Flesh_Eaters",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Zogre_Flesh_Eaters/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Wanted!",
+         "URL": "https://runescape.wiki/w/Wanted!",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Wanted!/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Temple Knight",
+               "URL": "https://runescape.wiki/w/Temple_Knight_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Rat Catchers",
+         "URL": "https://runescape.wiki/w/Rat_Catchers",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Rat_Catchers/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Gertrude's Cat",
+         "URL": "https://runescape.wiki/w/Gertrude%27s_Cat",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Gertrude%27s_Cat/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "My Arm's Big Adventure",
+         "URL": "https://runescape.wiki/w/My_Arm%27s_Big_Adventure",
+         "Quick_Guide_URL": "https://runescape.wiki/w/My_Arm%27s_Big_Adventure/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Troll",
+               "URL": "https://runescape.wiki/w/Troll_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Enlightened Journey",
+         "URL": "https://runescape.wiki/w/Enlightened_Journey",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Enlightened_Journey/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "The Feud",
+         "URL": "https://runescape.wiki/w/The_Feud",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Feud/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Eagles' Peak",
+         "URL": "https://runescape.wiki/w/Eagles%27_Peak",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Eagles%27_Peak/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Jungle Potion",
+         "URL": "https://runescape.wiki/w/Jungle_Potion",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Jungle_Potion/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Observatory Quest",
+         "URL": "https://runescape.wiki/w/Observatory_Quest",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Observatory_Quest/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "The Grand Tree",
+         "URL": "https://runescape.wiki/w/The_Grand_Tree",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Grand_Tree/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "5",
+         "Series": [
+            {
+               "Name": "Gnome",
+               "URL": "https://runescape.wiki/w/Gnome_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Dwarf Cannon",
+         "URL": "https://runescape.wiki/w/Dwarf_Cannon",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Dwarf_Cannon/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Fishing Contest",
+         "URL": "https://runescape.wiki/w/Fishing_Contest",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Fishing_Contest/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Animal Magnetism",
+         "URL": "https://runescape.wiki/w/Animal_Magnetism",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Animal_Magnetism/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Garden of Tranquillity",
+         "URL": "https://runescape.wiki/w/Garden_of_Tranquillity",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Garden_of_Tranquillity/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Clock Tower",
+         "URL": "https://runescape.wiki/w/Clock_Tower",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Clock_Tower/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Cabin Fever",
+         "URL": "https://runescape.wiki/w/Cabin_Fever",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Cabin_Fever/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Pirate",
+               "URL": "https://runescape.wiki/w/Pirate_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Creature of Fenkenstrain",
+         "URL": "https://runescape.wiki/w/Creature_of_Fenkenstrain",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Creature_of_Fenkenstrain/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Devious Minds",
+         "URL": "https://runescape.wiki/w/Devious_Minds",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Devious_Minds/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Eadgar's Ruse",
+         "URL": "https://runescape.wiki/w/Eadgar%27s_Ruse",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Eadgar%27s_Ruse/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Troll",
+               "URL": "https://runescape.wiki/w/Troll_quest_series"
+            },
+            {
+               "Name": "Druid's Circles",
+               "URL": "https://runescape.wiki/w/Druid%27s_Circles_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Troll Stronghold",
+         "URL": "https://runescape.wiki/w/Troll_Stronghold",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Troll_Stronghold/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Troll",
+               "URL": "https://runescape.wiki/w/Troll_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Enakhra's Lament",
+         "URL": "https://runescape.wiki/w/Enakhra%27s_Lament",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Enakhra%27s_Lament/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Fight Arena",
+         "URL": "https://runescape.wiki/w/Fight_Arena",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Fight_Arena/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Monk's Friend",
+         "URL": "https://runescape.wiki/w/Monk%27s_Friend",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Monk%27s_Friend/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Haunted Mine",
+         "URL": "https://runescape.wiki/w/Haunted_Mine",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Haunted_Mine/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Forgettable Tale of a Drunken Dwarf",
+         "URL": "https://runescape.wiki/w/Forgettable_Tale_of_a_Drunken_Dwarf",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Forgettable_Tale_of_a_Drunken_Dwarf/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Rise of the Red Axe",
+               "URL": "https://runescape.wiki/w/Rise_of_the_Red_Axe_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Contact!",
+         "URL": "https://runescape.wiki/w/Contact!",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Contact!/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Shadow of the Storm",
+         "URL": "https://runescape.wiki/w/Shadow_of_the_Storm",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Shadow_of_the_Storm/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Delrith quest series",
+               "URL": "https://runescape.wiki/w/Delrith_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Witch's House",
+         "URL": "https://runescape.wiki/w/Witch%27s_House",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Witch%27s_House/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Intermediate",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "4",
+         "Series": []
+      },
+      {
+         "Name": "Hazeel Cult",
+         "URL": "https://runescape.wiki/w/Hazeel_Cult",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Hazeel_Cult/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Icthlarin's Little Helper",
+         "URL": "https://runescape.wiki/w/Icthlarin%27s_Little_Helper",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Icthlarin%27s_Little_Helper/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Giant Dwarf",
+         "URL": "https://runescape.wiki/w/The_Giant_Dwarf",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Giant_Dwarf/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Rise of the Red Axe",
+               "URL": "https://runescape.wiki/w/Rise_of_the_Red_Axe_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Golem",
+         "URL": "https://runescape.wiki/w/The_Golem",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Golem/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "The Hand in the Sand",
+         "URL": "https://runescape.wiki/w/The_Hand_in_the_Sand",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Hand_in_the_Sand/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Troll Romance",
+         "URL": "https://runescape.wiki/w/Troll_Romance",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Troll_Romance/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Troll",
+               "URL": "https://runescape.wiki/w/Troll_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Lost Tribe",
+         "URL": "https://runescape.wiki/w/The_Lost_Tribe",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Lost_Tribe/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Dorgeshuun",
+               "URL": "https://runescape.wiki/w/Dorgeshuun_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Making History",
+         "URL": "https://runescape.wiki/w/Making_History",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Making_History/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Enchanted key",
+               "URL": "https://runescape.wiki/w/Enchanted_key_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Mountain Daughter",
+         "URL": "https://runescape.wiki/w/Mountain_Daughter",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Mountain_Daughter/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Mourning's End Part I",
+         "URL": "https://runescape.wiki/w/Mourning%27s_End_Part_I",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Mourning%27s_End_Part_I/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long to Very Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Mourning's End Part II",
+         "URL": "https://runescape.wiki/w/Mourning%27s_End_Part_II",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Mourning%27s_End_Part_II/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Very Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Tourist Trap",
+         "URL": "https://runescape.wiki/w/The_Tourist_Trap",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Tourist_Trap/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Roving Elves",
+         "URL": "https://runescape.wiki/w/Roving_Elves",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Roving_Elves/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            },
+            {
+               "Name": "Gnome",
+               "URL": "https://runescape.wiki/w/Gnome_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Tree Gnome Village",
+         "URL": "https://runescape.wiki/w/Tree_Gnome_Village",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Tree_Gnome_Village/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Gnome",
+               "URL": "https://runescape.wiki/w/Gnome_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Cold War",
+         "URL": "https://runescape.wiki/w/Cold_War",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Cold_War/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Penguin",
+               "URL": "https://runescape.wiki/w/Penguin_series"
+            }
+         ]
+      },
+      {
+         "Name": "Waterfall Quest",
+         "URL": "https://runescape.wiki/w/Waterfall_Quest",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Waterfall_Quest/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            },
+            {
+               "Name": "Gnome",
+               "URL": "https://runescape.wiki/w/Gnome_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "A Tail of Two Cats",
+         "URL": "https://runescape.wiki/w/A_Tail_of_Two_Cats",
+         "Quick_Guide_URL": "https://runescape.wiki/w/A_Tail_of_Two_Cats/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Dragonkin",
+               "URL": "https://runescape.wiki/w/Dragonkin_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Spirits of the Elid",
+         "URL": "https://runescape.wiki/w/Spirits_of_the_Elid",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Spirits_of_the_Elid/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Shilo Village",
+         "URL": "https://runescape.wiki/w/Shilo_Village",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Shilo_Village/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Tai Bwo Wannai Trio",
+         "URL": "https://runescape.wiki/w/Tai_Bwo_Wannai_Trio",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Tai_Bwo_Wannai_Trio/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Tribal Totem",
+         "URL": "https://runescape.wiki/w/Tribal_Totem",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Tribal_Totem/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "The Fremennik Isles",
+         "URL": "https://runescape.wiki/w/The_Fremennik_Isles",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Fremennik_Isles/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Watchtower",
+         "URL": "https://runescape.wiki/w/Watchtower",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Watchtower/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "4",
+         "Series": []
+      },
+      {
+         "Name": "Tower of Life",
+         "URL": "https://runescape.wiki/w/Tower_of_Life",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Tower_of_Life/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "The Great Brain Robbery",
+         "URL": "https://runescape.wiki/w/The_Great_Brain_Robbery",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Great_Brain_Robbery/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Pirate",
+               "URL": "https://runescape.wiki/w/Pirate_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "What Lies Below",
+         "URL": "https://runescape.wiki/w/What_Lies_Below",
+         "Quick_Guide_URL": "https://runescape.wiki/w/What_Lies_Below/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Olaf's Quest",
+         "URL": "https://runescape.wiki/w/Olaf%27s_Quest",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Olaf%27s_Quest/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Another Slice of H.A.M.",
+         "URL": "https://runescape.wiki/w/Another_Slice_of_H.A.M.",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Another_Slice_of_H.A.M./Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Dorgeshuun",
+               "URL": "https://runescape.wiki/w/Dorgeshuun_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Dream Mentor",
+         "URL": "https://runescape.wiki/w/Dream_Mentor",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Dream_Mentor/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Grim Tales",
+         "URL": "https://runescape.wiki/w/Grim_Tales",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Grim_Tales/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "King's Ransom",
+         "URL": "https://runescape.wiki/w/King%27s_Ransom",
+         "Quick_Guide_URL": "https://runescape.wiki/w/King%27s_Ransom/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Camelot",
+               "URL": "https://runescape.wiki/w/Camelot_quest_series"
+            },
+            {
+               "Name": "Sinclair",
+               "URL": "https://runescape.wiki/w/Sinclair_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Path of Glouphrie",
+         "URL": "https://runescape.wiki/w/The_Path_of_Glouphrie",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Path_of_Glouphrie/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Gnome",
+               "URL": "https://runescape.wiki/w/Gnome_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Back to my Roots",
+         "URL": "https://runescape.wiki/w/Back_to_my_Roots",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Back_to_my_Roots/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Land of the Goblins",
+         "URL": "https://runescape.wiki/w/Land_of_the_Goblins",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Land_of_the_Goblins/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Dorgeshuun",
+               "URL": "https://runescape.wiki/w/Dorgeshuun_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Dealing with Scabaras",
+         "URL": "https://runescape.wiki/w/Dealing_with_Scabaras",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Dealing_with_Scabaras/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "As a First Resort",
+         "URL": "https://runescape.wiki/w/As_a_First_Resort",
+         "Quick_Guide_URL": "https://runescape.wiki/w/As_a_First_Resort/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Catapult Construction",
+         "URL": "https://runescape.wiki/w/Catapult_Construction",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Catapult_Construction/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "The Dig Site",
+         "URL": "https://runescape.wiki/w/The_Dig_Site",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Dig_Site/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Return of Zaros",
+               "URL": "https://runescape.wiki/w/Return_of_Zaros_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Kennith's Concerns",
+         "URL": "https://runescape.wiki/w/Kennith%27s_Concerns",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Kennith%27s_Concerns/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Sea Slug series",
+               "URL": "https://runescape.wiki/w/Sea_Slug_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Legacy of Seergaze",
+         "URL": "https://runescape.wiki/w/Legacy_of_Seergaze",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Legacy_of_Seergaze/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long to Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Myreque",
+               "URL": "https://runescape.wiki/w/Myreque_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "TokTz-Ket-Dill",
+         "URL": "https://runescape.wiki/w/TokTz-Ket-Dill",
+         "Quick_Guide_URL": "https://runescape.wiki/w/TokTz-Ket-Dill/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long to Very Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "TzHaar",
+               "URL": "https://runescape.wiki/w/TzHaar_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Perils of Ice Mountain",
+         "URL": "https://runescape.wiki/w/Perils_of_Ice_Mountain",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Perils_of_Ice_Mountain/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Rocking Out",
+         "URL": "https://runescape.wiki/w/Rocking_Out",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Rocking_Out/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long to Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Pirate",
+               "URL": "https://runescape.wiki/w/Pirate_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Smoking Kills",
+         "URL": "https://runescape.wiki/w/Smoking_Kills",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Smoking_Kills/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Spirit of Summer",
+         "URL": "https://runescape.wiki/w/Spirit_of_Summer",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Spirit_of_Summer/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Summer",
+               "URL": "https://runescape.wiki/w/Summer_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Meeting History",
+         "URL": "https://runescape.wiki/w/Meeting_History",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Meeting_History/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Enchanted key",
+               "URL": "https://runescape.wiki/w/Enchanted_key_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "All Fired Up",
+         "URL": "https://runescape.wiki/w/All_Fired_Up",
+         "Quick_Guide_URL": "https://runescape.wiki/w/All_Fired_Up/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Summer's End",
+         "URL": "https://runescape.wiki/w/Summer%27s_End",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Summer%27s_End/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Summer",
+               "URL": "https://runescape.wiki/w/Summer_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Defender of Varrock",
+         "URL": "https://runescape.wiki/w/Defender_of_Varrock",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Defender_of_Varrock/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            },
+            {
+               "Name": "Arrav",
+               "URL": "https://runescape.wiki/w/Arrav_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Swept Away",
+         "URL": "https://runescape.wiki/w/Swept_Away",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Swept_Away/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "While Guthix Sleeps",
+         "URL": "https://runescape.wiki/w/While_Guthix_Sleeps",
+         "Quick_Guide_URL": "https://runescape.wiki/w/While_Guthix_Sleeps/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Very, Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "5",
+         "Series": [
+            {
+               "Name": "The Rise of Lucien",
+               "URL": "https://runescape.wiki/w/The_Rise_of_Lucien_quest_series"
+            },
+            {
+               "Name": "Temple Knight",
+               "URL": "https://runescape.wiki/w/Temple_Knight_quest_series"
+            },
+            {
+               "Name": "Dragonkin",
+               "URL": "https://runescape.wiki/w/Dragonkin_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Myths of the White Lands",
+         "URL": "https://runescape.wiki/w/Myths_of_the_White_Lands",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Myths_of_the_White_Lands/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "In Pyre Need",
+         "URL": "https://runescape.wiki/w/In_Pyre_Need",
+         "Quick_Guide_URL": "https://runescape.wiki/w/In_Pyre_Need/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "The Chosen Commander",
+         "URL": "https://runescape.wiki/w/The_Chosen_Commander",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Chosen_Commander/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long to Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Dorgeshuun",
+               "URL": "https://runescape.wiki/w/Dorgeshuun_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Glorious Memories",
+         "URL": "https://runescape.wiki/w/Glorious_Memories",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Glorious_Memories/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Tale of the Muspah",
+         "URL": "https://runescape.wiki/w/The_Tale_of_the_Muspah",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Tale_of_the_Muspah/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            },
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Missing My Mummy",
+         "URL": "https://runescape.wiki/w/Missing_My_Mummy",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Missing_My_Mummy/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            },
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Hunt for Red Raktuber",
+         "URL": "https://runescape.wiki/w/Hunt_for_Red_Raktuber",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Hunt_for_Red_Raktuber/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Penguin",
+               "URL": "https://runescape.wiki/w/Penguin_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Curse of Arrav",
+         "URL": "https://runescape.wiki/w/The_Curse_of_Arrav",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Curse_of_Arrav/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            },
+            {
+               "Name": "Arrav",
+               "URL": "https://runescape.wiki/w/Arrav_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Forgiveness of a Chaos Dwarf",
+         "URL": "https://runescape.wiki/w/Forgiveness_of_a_Chaos_Dwarf",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Forgiveness_of_a_Chaos_Dwarf/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Rise of the Red Axe",
+               "URL": "https://runescape.wiki/w/Rise_of_the_Red_Axe"
+            }
+         ]
+      },
+      {
+         "Name": "Fur 'n Seek",
+         "URL": "https://runescape.wiki/w/Fur_%27n_Seek",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Fur_%27n_Seek/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Within the Light",
+         "URL": "https://runescape.wiki/w/Within_the_Light",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Within_the_Light/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Elemental Workshop III",
+         "URL": "https://runescape.wiki/w/Elemental_Workshop_III",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Elemental_Workshop_III/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Elemental Workshop",
+               "URL": "https://runescape.wiki/w/Elemental_Workshop_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "A Fairy Tale III - Battle at Ork's Rift",
+         "URL": "https://runescape.wiki/w/A_Fairy_Tale_III_-_Battle_at_Ork%27s_Rift",
+         "Quick_Guide_URL": "https://runescape.wiki/w/A_Fairy_Tale_III_-_Battle_at_Ork%27s_Rift/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Fairy Tale",
+               "URL": "https://runescape.wiki/w/Fairy_Tale_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Temple at Senntisten",
+         "URL": "https://runescape.wiki/w/The_Temple_at_Senntisten",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Temple_at_Senntisten/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Mysteries of the Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mysteries_of_the_Mahjarrat_quest_series"
+            },
+            {
+               "Name": "Return of Zaros",
+               "URL": "https://runescape.wiki/w/Return_of_Zaros_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Blood Runs Deep",
+         "URL": "https://runescape.wiki/w/Blood_Runs_Deep",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Blood_Runs_Deep/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Nomad's Requiem",
+         "URL": "https://runescape.wiki/w/Nomad%27s_Requiem",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Nomad%27s_Requiem/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": []
+      },
+      {
+         "Name": "Rune Mechanics",
+         "URL": "https://runescape.wiki/w/Rune_Mechanics",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Rune_Mechanics/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "The Blood Pact",
+         "URL": "https://runescape.wiki/w/The_Blood_Pact",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Blood_Pact/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Signature Heroes",
+               "URL": "https://runescape.wiki/w/Signature_Heroes_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Buyers and Cellars",
+         "URL": "https://runescape.wiki/w/Buyers_and_Cellars",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Buyers_and_Cellars/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Thieves' Guild",
+               "URL": "https://runescape.wiki/w/Thieves%27_Guild_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Ritual of the Mahjarrat",
+         "URL": "https://runescape.wiki/w/Ritual_of_the_Mahjarrat",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Ritual_of_the_Mahjarrat/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Very, Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            },
+            {
+               "Name": "Rise of Lucien",
+               "URL": "https://runescape.wiki/w/The_Rise_of_Lucien_quest_series"
+            },
+            {
+               "Name": "Dragonkin",
+               "URL": "https://runescape.wiki/w/Dragonkin_quest_series"
+            },
+            {
+               "Name": "Arrav",
+               "URL": "https://runescape.wiki/w/Arrav_quest_series"
+            },
+            {
+               "Name": "Return of Zaros",
+               "URL": "https://runescape.wiki/w/Return_of_Zaros_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Quiet Before the Swarm",
+         "URL": "https://runescape.wiki/w/Quiet_Before_the_Swarm",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Quiet_Before_the_Swarm/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Void Knights",
+               "URL": "https://runescape.wiki/w/Void_Knights_quest_series"
+            },
+            {
+               "Name": "Temple Knight",
+               "URL": "https://runescape.wiki/w/Temple_Knight_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Love Story",
+         "URL": "https://runescape.wiki/w/Love_Story",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Love_Story/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Wise Old Man",
+               "URL": "https://runescape.wiki/w/Wise_Old_Man_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "A Void Dance",
+         "URL": "https://runescape.wiki/w/A_Void_Dance",
+         "Quick_Guide_URL": "https://runescape.wiki/w/A_Void_Dance/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Void Knights",
+               "URL": "https://runescape.wiki/w/Void_Knights_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Gunnar's Ground",
+         "URL": "https://runescape.wiki/w/Gunnar%27s_Ground",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Gunnar%27s_Ground/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "5",
+         "Series": []
+      },
+      {
+         "Name": "The Void Stares Back",
+         "URL": "https://runescape.wiki/w/The_Void_Stares_Back",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Void_Stares_Back/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Void Knights",
+               "URL": "https://runescape.wiki/w/Void_Knights_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Do No Evil",
+         "URL": "https://runescape.wiki/w/Do_No_Evil",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Do_No_Evil/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            },
+            {
+               "Name": "Monkey",
+               "URL": "https://runescape.wiki/w/Monkey_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "King of the Dwarves",
+         "URL": "https://runescape.wiki/w/King_of_the_Dwarves",
+         "Quick_Guide_URL": "https://runescape.wiki/w/King_of_the_Dwarves/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Rise of the Red Axe",
+               "URL": "https://runescape.wiki/w/Rise_of_the_Red_Axe_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Prisoner of Glouphrie",
+         "URL": "https://runescape.wiki/w/The_Prisoner_of_Glouphrie",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Prisoner_of_Glouphrie/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Gnome",
+               "URL": "https://runescape.wiki/w/Gnome_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Elemental Workshop IV",
+         "URL": "https://runescape.wiki/w/Elemental_Workshop_IV",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Elemental_Workshop_IV/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Elemental Workshop",
+               "URL": "https://runescape.wiki/w/Elemental_Workshop_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "A Clockwork Syringe",
+         "URL": "https://runescape.wiki/w/A_Clockwork_Syringe",
+         "Quick_Guide_URL": "https://runescape.wiki/w/A_Clockwork_Syringe/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Pirate",
+               "URL": "https://runescape.wiki/w/Pirate_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Family Crest",
+         "URL": "https://runescape.wiki/w/Family_Crest",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Family_Crest/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Deadliest Catch",
+         "URL": "https://runescape.wiki/w/Deadliest_Catch",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Deadliest_Catch/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Salt in the Wound",
+         "URL": "https://runescape.wiki/w/Salt_in_the_Wound",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Salt_in_the_Wound/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Sea Slug series",
+               "URL": "https://runescape.wiki/w/Sea_Slug_quest_series"
+            },
+            {
+               "Name": "Temple Knight",
+               "URL": "https://runescape.wiki/w/Temple_Knight_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Branches of Darkmeyer",
+         "URL": "https://runescape.wiki/w/The_Branches_of_Darkmeyer",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Branches_of_Darkmeyer/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Myreque",
+               "URL": "https://runescape.wiki/w/Myreque_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Chef's Assistant",
+         "URL": "https://runescape.wiki/w/Chef%27s_Assistant",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Chef%27s_Assistant/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "One Piercing Note",
+         "URL": "https://runescape.wiki/w/One_Piercing_Note",
+         "Quick_Guide_URL": "https://runescape.wiki/w/One_Piercing_Note/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Some Like It Cold",
+         "URL": "https://runescape.wiki/w/Some_Like_It_Cold",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Some_Like_It_Cold/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long to Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Penguin",
+               "URL": "https://runescape.wiki/w/Penguin_series"
+            }
+         ]
+      },
+      {
+         "Name": "Plague's End",
+         "URL": "https://runescape.wiki/w/Plague%27s_End",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Plague%27s_End/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Long to Very Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Firemaker's Curse",
+         "URL": "https://runescape.wiki/w/The_Firemaker%27s_Curse",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Firemaker%27s_Curse/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Return of Zaros",
+               "URL": "https://runescape.wiki/w/Return_of_Zaros_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Let Them Eat Pie",
+         "URL": "https://runescape.wiki/w/Let_Them_Eat_Pie",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Let_Them_Eat_Pie/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Druidic Ritual",
+         "URL": "https://runescape.wiki/w/Druidic_Ritual",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Druidic_Ritual/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "4",
+         "Series": [
+            {
+               "Name": "Druid's Circles",
+               "URL": "https://runescape.wiki/w/Druid%27s_Circles_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Wolf Whistle",
+         "URL": "https://runescape.wiki/w/Wolf_Whistle",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Wolf_Whistle/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Death Plateau",
+         "URL": "https://runescape.wiki/w/Death_Plateau",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Death_Plateau/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Troll",
+               "URL": "https://runescape.wiki/w/Troll_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Elder Kiln",
+         "URL": "https://runescape.wiki/w/The_Elder_Kiln",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Elder_Kiln/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "TzHaar",
+               "URL": "https://runescape.wiki/w/TzHaar_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Song from the Depths",
+         "URL": "https://runescape.wiki/w/Song_from_the_Depths",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Song_from_the_Depths/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Carnillean Rising",
+         "URL": "https://runescape.wiki/w/Carnillean_Rising",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Carnillean_Rising/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Signature Heroes",
+               "URL": "https://runescape.wiki/w/Signature_Heroes_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Stolen Hearts",
+         "URL": "https://runescape.wiki/w/Stolen_Hearts",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Stolen_Hearts/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Diamond in the Rough",
+         "URL": "https://runescape.wiki/w/Diamond_in_the_Rough",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Diamond_in_the_Rough/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            },
+            {
+               "Name": "Signature Heroes",
+               "URL": "https://runescape.wiki/w/Signature_Heroes_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "What's Mine is Yours",
+         "URL": "https://runescape.wiki/w/What%27s_Mine_is_Yours",
+         "Quick_Guide_URL": "https://runescape.wiki/w/What%27s_Mine_is_Yours/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Rune Memories",
+         "URL": "https://runescape.wiki/w/Rune_Memories",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Rune_Memories/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Signature Heroes",
+               "URL": "https://runescape.wiki/w/Signature_Heroes_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Brink of Extinction",
+         "URL": "https://runescape.wiki/w/The_Brink_of_Extinction",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Brink_of_Extinction/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "TzHaar",
+               "URL": "https://runescape.wiki/w/TzHaar_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Demon Slayer",
+         "URL": "https://runescape.wiki/w/Demon_Slayer",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Demon_Slayer/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Delrith quest series",
+               "URL": "https://runescape.wiki/w/Delrith_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The World Wakes",
+         "URL": "https://runescape.wiki/w/The_World_Wakes",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_World_Wakes/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Long to Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "God",
+               "URL": "https://runescape.wiki/w/God_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Bringing Home the Bacon",
+         "URL": "https://runescape.wiki/w/Bringing_Home_the_Bacon",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Bringing_Home_the_Bacon/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Missing, Presumed Death",
+         "URL": "https://runescape.wiki/w/Missing,_Presumed_Death",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Missing,_Presumed_Death/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Mahjarrat",
+               "URL": "https://runescape.wiki/w/Mahjarrat_quest_series"
+            },
+            {
+               "Name": "Sliske",
+               "URL": "https://runescape.wiki/w/Sliske_quest_series"
+            },
+            {
+               "Name": "God",
+               "URL": "https://runescape.wiki/w/God_quest_series"
+            },
+            {
+               "Name": "Dragonkin",
+               "URL": "https://runescape.wiki/w/Dragonkin_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Birthright of the Dwarves",
+         "URL": "https://runescape.wiki/w/Birthright_of_the_Dwarves",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Birthright_of_the_Dwarves/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Very Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Rise of the Red Axe",
+               "URL": "https://runescape.wiki/w/Rise_of_the_Red_Axe_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Death of Chivalry",
+         "URL": "https://runescape.wiki/w/The_Death_of_Chivalry",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Death_of_Chivalry/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Signature Heroes",
+               "URL": "https://runescape.wiki/w/Signature_Heroes_quest_series"
+            },
+            {
+               "Name": "Temple Knight",
+               "URL": "https://runescape.wiki/w/Temple_Knight_quest_series"
+            },
+            {
+               "Name": "God",
+               "URL": "https://runescape.wiki/w/God_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Fate of the Gods",
+         "URL": "https://runescape.wiki/w/Fate_of_the_Gods",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Fate_of_the_Gods/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Long to Very Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Return of Zaros",
+               "URL": "https://runescape.wiki/w/Return_of_Zaros_quest_series"
+            },
+            {
+               "Name": "Gods",
+               "URL": "https://runescape.wiki/w/God_quest_series"
+            },
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "One of a Kind",
+         "URL": "https://runescape.wiki/w/One_of_a_Kind",
+         "Quick_Guide_URL": "https://runescape.wiki/w/One_of_a_Kind/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Long to Very Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Dragonkin",
+               "URL": "https://runescape.wiki/w/Dragonkin_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "A Shadow over Ashdale",
+         "URL": "https://runescape.wiki/w/A_Shadow_over_Ashdale",
+         "Quick_Guide_URL": "https://runescape.wiki/w/A_Shadow_over_Ashdale/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "The Mighty Fall",
+         "URL": "https://runescape.wiki/w/The_Mighty_Fall",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Mighty_Fall/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long to Very Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Dorgeshuun",
+               "URL": "https://runescape.wiki/w/Dorgeshuun_quest_series"
+            },
+            {
+               "Name": "Troll",
+               "URL": "https://runescape.wiki/w/Troll_quest_series"
+            },
+            {
+               "Name": "God",
+               "URL": "https://runescape.wiki/w/God_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Broken Home",
+         "URL": "https://runescape.wiki/w/Broken_Home",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Broken_Home/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Dishonour among Thieves",
+         "URL": "https://runescape.wiki/w/Dishonour_among_Thieves",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Dishonour_among_Thieves/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "God",
+               "URL": "https://runescape.wiki/w/God_quest_series"
+            },
+            {
+               "Name": "Sliske",
+               "URL": "https://runescape.wiki/w/Sliske_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Dimension of Disaster",
+         "URL": "https://runescape.wiki/w/Dimension_of_Disaster",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Dimension_of_Disaster/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Special",
+         "Length": "Very, Very Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "10",
+         "Series": []
+      },
+      {
+         "Name": "Heart of Stone",
+         "URL": "https://runescape.wiki/w/Heart_of_Stone",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Heart_of_Stone/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Lord of Vampyrium",
+         "URL": "https://runescape.wiki/w/The_Lord_of_Vampyrium",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Lord_of_Vampyrium/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long to Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Myreque",
+               "URL": "https://runescape.wiki/w/Myreque_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Hero's Welcome",
+         "URL": "https://runescape.wiki/w/Hero%27s_Welcome",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Hero%27s_Welcome/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Medium to Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Fremennik",
+               "URL": "https://runescape.wiki/w/Fremennik_quest_series"
+            },
+            {
+               "Name": "Dragonkin",
+               "URL": "https://runescape.wiki/w/Dragonkin_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Light Within",
+         "URL": "https://runescape.wiki/w/The_Light_Within",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Light_Within/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Elf",
+               "URL": "https://runescape.wiki/w/Elf_quest_series"
+            },
+            {
+               "Name": "God",
+               "URL": "https://runescape.wiki/w/God_quest_series"
+            },
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            },
+            {
+               "Name": "Enchanted Key",
+               "URL": "https://runescape.wiki/w/Enchanted_key_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Call of the Ancestors",
+         "URL": "https://runescape.wiki/w/Call_of_the_Ancestors",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Call_of_the_Ancestors/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "River of Blood",
+         "URL": "https://runescape.wiki/w/River_of_Blood",
+         "Quick_Guide_URL": "https://runescape.wiki/w/River_of_Blood/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Long to Very Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Myreque",
+               "URL": "https://runescape.wiki/w/Myreque_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Nomad's Elegy",
+         "URL": "https://runescape.wiki/w/Nomad%27s_Elegy",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Nomad%27s_Elegy/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Sliske",
+               "URL": "https://runescape.wiki/w/Sliske_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Kindred Spirits",
+         "URL": "https://runescape.wiki/w/Kindred_Spirits",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Kindred_Spirits/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Sliske",
+               "URL": "https://runescape.wiki/w/Sliske_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Sliske's Endgame",
+         "URL": "https://runescape.wiki/w/Sliske%27s_Endgame",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Sliske%27s_Endgame/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Very Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Sliske",
+               "URL": "https://runescape.wiki/w/Sliske_quest_series"
+            },
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            },
+            {
+               "Name": "Dragonkin",
+               "URL": "https://runescape.wiki/w/Dragonkin_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Children of Mah",
+         "URL": "https://runescape.wiki/w/Children_of_Mah",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Children_of_Mah/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Medium to Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Sliske",
+               "URL": "https://runescape.wiki/w/Sliske_quest_series"
+            },
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Gower Quest",
+         "URL": "https://runescape.wiki/w/Gower_Quest",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Gower_Quest/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Experienced",
+         "Length": "Medium to Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Beneath Cursed Tides",
+         "URL": "https://runescape.wiki/w/Beneath_Cursed_Tides",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Beneath_Cursed_Tides/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Extinction",
+         "URL": "https://runescape.wiki/w/Extinction",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Extinction/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Grandmaster",
+         "Length": "Very Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "4",
+         "Series": [
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Impressing the Locals",
+         "URL": "https://runescape.wiki/w/Impressing_the_Locals",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Impressing_the_Locals/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Tales of the Arc",
+               "URL": "https://runescape.wiki/w/Tales_of_the_Arc"
+            }
+         ]
+      },
+      {
+         "Name": "Evil Dave's Big Day Out",
+         "URL": "https://runescape.wiki/w/Evil_Dave%27s_Big_Day_Out",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Evil_Dave%27s_Big_Day_Out/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Sixth Age",
+         "Quest_Points": "2",
+         "Series": []
+      },
+      {
+         "Name": "Back to the Freezer",
+         "URL": "https://runescape.wiki/w/Back_to_the_Freezer",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Back_to_the_Freezer/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium to Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Penguin",
+               "URL": "https://runescape.wiki/w/Penguin_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Crocodile Tears",
+         "URL": "https://runescape.wiki/w/Crocodile_Tears",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Crocodile_Tears/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Our Man in the North",
+         "URL": "https://runescape.wiki/w/Our_Man_in_the_North",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Our_Man_in_the_North/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "'Phite Club",
+         "URL": "https://runescape.wiki/w/%27Phite_Club",
+         "Quick_Guide_URL": "https://runescape.wiki/w/%27Phite_Club/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Short",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Jack of Spades",
+         "URL": "https://runescape.wiki/w/The_Jack_of_Spades",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Jack_of_Spades/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Fifth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Desert",
+               "URL": "https://runescape.wiki/w/Desert_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Pieces of Hate",
+         "URL": "https://runescape.wiki/w/Pieces_of_Hate",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Pieces_of_Hate/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Fifth Age",
+         "Quest_Points": "2",
+         "Series": [
+            {
+               "Name": "Pirate",
+               "URL": "https://runescape.wiki/w/Pirate_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "The Needle Skips",
+         "URL": "https://runescape.wiki/w/The_Needle_Skips",
+         "Quick_Guide_URL": "https://runescape.wiki/w/The_Needle_Skips/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "You Are It",
+         "URL": "https://runescape.wiki/w/You_Are_It",
+         "Quick_Guide_URL": "https://runescape.wiki/w/You_Are_It/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Violet is Blue",
+         "URL": "https://runescape.wiki/w/Violet_is_Blue",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Violet_is_Blue/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Curse of the Black Stone",
+         "URL": "https://runescape.wiki/w/Curse_of_the_Black_Stone",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Curse_of_the_Black_Stone/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "4",
+         "Series": [
+            {
+               "Name": "Pirate",
+               "URL": "https://runescape.wiki/w/Pirate_quest_series"
+            },
+            {
+               "Name": "Tales of the Arc",
+               "URL": "https://runescape.wiki/w/Tales_of_the_Arc"
+            },
+            {
+               "Name": "Dragonkin",
+               "URL": "https://runescape.wiki/w/Dragonkin_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Desperate Times",
+         "URL": "https://runescape.wiki/w/Desperate_Times",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Desperate_Times/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Medium",
+         "Age": "Sixth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Desperate Measures",
+         "URL": "https://runescape.wiki/w/Desperate_Measures",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Desperate_Measures/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Intermediate",
+         "Length": "Very Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Once Upon a Slime",
+         "URL": "https://runescape.wiki/w/Once_Upon_a_Slime",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Once_Upon_a_Slime/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Violet is Blue Too",
+         "URL": "https://runescape.wiki/w/Violet_is_Blue_Too",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Violet_is_Blue_Too/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Ambiguous",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Once Upon a Time in Gielinor",
+         "URL": "https://runescape.wiki/w/Once_Upon_a_Time_in_Gielinor",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Once_Upon_a_Time_in_Gielinor/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium to Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "4",
+         "Series": []
+      },
+      {
+         "Name": "City of Senntisten",
+         "URL": "https://runescape.wiki/w/City_of_Senntisten",
+         "Quick_Guide_URL": "https://runescape.wiki/w/City_of_Senntisten/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Heartstealer",
+         "URL": "https://runescape.wiki/w/Heartstealer",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Heartstealer/Quick_guide",
+         "Members": "No",
+         "Difficulty": "Novice",
+         "Length": "Short to Medium",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": []
+      },
+      {
+         "Name": "Azzanadra's Quest",
+         "URL": "https://runescape.wiki/w/Azzanadra%27s_Quest",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Azzanadra%27s_Quest/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Experienced",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            },
+            {
+               "Name": "Temple Knight quest series",
+               "URL": "https://runescape.wiki/w/Temple_Knight_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Twilight of the Gods",
+         "URL": "https://runescape.wiki/w/Twilight_of_the_Gods",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Twilight_of_the_Gods/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Master",
+         "Length": "Long",
+         "Age": "Sixth Age",
+         "Quest_Points": "3",
+         "Series": [
+            {
+               "Name": "Elder Gods",
+               "URL": "https://runescape.wiki/w/Elder_Gods_quest_series"
+            }
+         ]
+      },
+      {
+         "Name": "Daughter of Chaos",
+         "URL": "https://runescape.wiki/w/Daughter_of_Chaos",
+         "Quick_Guide_URL": "https://runescape.wiki/w/Daughter_of_Chaos/Quick_guide",
+         "Members": "Yes",
+         "Difficulty": "Novice",
+         "Length": "Medium",
+         "Age": "Sixth Age",
+         "Quest_Points": "1",
+         "Series": [
+            {
+               "Name": "Legacy of Zamorak",
+               "URL": "https://runescape.wiki/w/Legacy_of_Zamorak"
+            }
+         ]
+      }
+   ]
+}

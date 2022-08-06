@@ -45,5 +45,5 @@ def get_row_data(table_rows: NavigableString):
 def get_quest_dictionary():
     return {'Quests': get_row_data(table_rows = get_table_rows(table = get_quest_table()))}
 
-with open("quest_dictionary.json", "w", encoding='utf-8') as file:
+with open("./Data/quest_dictionary.json", "w", encoding='utf-8') as file:
     file.write(str(json.dumps(get_quest_dictionary(), indent=3)))
