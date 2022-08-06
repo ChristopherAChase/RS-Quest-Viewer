@@ -1,5 +1,5 @@
 import re
-from utils.constants import ALL_SKILLS, BASE_WIKI_LINK
+from utils.constants import ALL_SKILLS
 from utils.utility import *
 import requests
 from bs4 import BeautifulSoup
@@ -9,7 +9,6 @@ quest_dictionary = quests.get_quest_dictionary()
 
 SKILL_REQS = "Skill_Requirements"
 
-# Gather the page's contents
 def get_quests_requiring_skill(skill:str):
     skill_html_id = get_skill_html_id(skill)
     skill_link = get_skill_wiki_url(skill)

@@ -1,6 +1,5 @@
 from tracemalloc import get_traceback_limit
 import requests
-import json
 from utils.constants import QUEST_LIST_LINK_SUFFIX, BASE_WIKI_LINK
 from bs4 import BeautifulSoup, NavigableString
 
