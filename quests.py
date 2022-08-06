@@ -1,3 +1,4 @@
+from tracemalloc import get_traceback_limit
 import requests
 import json
 from utils.constants import QUEST_LIST_LINK_SUFFIX, BASE_WIKI_LINK
@@ -19,19 +20,30 @@ def get_table_rows(table:NavigableString):
     table_rows = [[row.find_next("td")] + row.find_next("td").find_next_siblings("td") for row in table_body]
     return table_rows
 
-def get_row_data(rows: NavigableString):
-    # Need to parse each row individually in order to grab the URLs for the quest, and potentially more data
-    pass
+def get_row_data(table_rows: NavigableString):
+    header = [header.title().replace(' ', '_') for header in get_table_headers(get_quest_table())]
+    quests = []
+    for tr in table_rows:
+        quest_details = {}
+        for col_index, td in enumerate(tr):
+            if col_index < len(tr) - 1:
+                quest_details[header[col_index]] = td.text.strip().replace('\n', '')
+                if col_index == 0:
+                    quest_details["URL"] = f"{BASE_WIKI_LINK}{td.find('a')['href']}"
+                    quest_details["Quick_Guide_URL"] = f"{BASE_WIKI_LINK}{td.find('a')['href']}/Quick_guide"
+                if header[col_index].lower() == 'quest points':
+                    quest_details[header[col_index]] = int(td.text.strip().replace('\n', ''))
+            else:
+                quest_series = [{
+                        "Name": a.text.strip().replace('\n', ''), 
+                        "URL": f"{BASE_WIKI_LINK}{a['href']}"
+                    } for a in td.find_all('a')]
+                quest_details[header[col_index]] = quest_series
+        quests.append(quest_details)
+    return quests
     
-quest_table = get_quest_table()
-table_headers = get_table_headers(table = quest_table)
-table_rows = get_table_rows(table = quest_table)
-
-# get_row_data(table_rows)
-
-body_contents = [[td.get_text('\n', True) for td in row] for row in table_rows]
-
-quest_dictionary = {'Quests': [{table_headers[i]: row[i] for i in range(len(row))} for row in body_contents]}
+def get_quest_dictionary():
+    return {'Quests': get_row_data(table_rows = get_table_rows(table = get_quest_table()))}
 
 with open("quest_dictionary.json", "w", encoding='utf-8') as file:
-    file.write(str(json.dumps(quest_dictionary, indent=3)))
+    file.write(str(json.dumps(get_quest_dictionary(), indent=3)))
