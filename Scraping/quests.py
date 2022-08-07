@@ -1,9 +1,6 @@
-from tracemalloc import get_traceback_limit
 import requests
-from utils.constants import QUEST_LIST_LINK_SUFFIX, BASE_WIKI_LINK
+from utils.constants import QUEST_LIST_URL, BASE_WIKI_LINK
 from bs4 import BeautifulSoup, NavigableString
-
-QUEST_LIST_URL = f'{BASE_WIKI_LINK}{QUEST_LIST_LINK_SUFFIX}'
 
 def get_quest_table():
     soup = BeautifulSoup(requests.get(QUEST_LIST_URL).content, "html.parser")    

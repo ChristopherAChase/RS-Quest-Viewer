@@ -3,9 +3,6 @@ from utils.constants import ALL_SKILLS
 from utils.utility import *
 import requests
 from bs4 import BeautifulSoup
-import json
-import quests 
-quest_dictionary = quests.get_quest_dictionary()
 
 SKILL_REQS = "Skill_Requirements"
 
@@ -24,13 +21,6 @@ def get_quests_requiring_skill(skill:str):
 def get_quest_requirement(requirement:str):
     stringSplitIndices = [0, re.search('[^0-9]', requirement).start(), re.search('[^0-9- ]', requirement).start()]
     return [requirement[i:j] for i,j in zip(stringSplitIndices, stringSplitIndices[1:]+[None])][::2]
-    
-
-def get_quest_or_none(quest_list, quest_name):
-    return next((item for item in quest_list["Quests"] if item["Name"] == quest_name), None)
-
-def quest_has_skill_requirement(quest: dict, required_skill:str):
-    return next((skill for skill in quest[SKILL_REQS] if skill["skill"] == required_skill), False)
 
 def add_skill_requirements_to_quest_dictionary(quest_dictionary: dict):
     quest_list = quest_dictionary
@@ -48,6 +38,3 @@ def add_skill_requirements_to_quest_dictionary(quest_dictionary: dict):
                         "Level": int(skill_level)
                     })
     return quest_list
-
-with open("./Data/quest_list.json", "w", encoding='utf-8') as file:
-    file.write(str(json.dumps(add_skill_requirements_to_quest_dictionary(quest_dictionary), indent=3)))
