@@ -1,14 +1,14 @@
 import React from 'react';
-import Table from './components/Table/Table';
-import QuestData from '../../Data/quest_list.json';
+import QuestTable from './components/Table/QuestTable';
+import { Heading } from 'react-bulma-components';
 
 
 
 const App = () => (
-    <div>
-        <h1>Runescape Quest Viewer</h1>
-        <Table tableData={QuestData}/>
-    </div>
+    <>
+        <Heading>Runescape Quest Viewer</Heading>
+        <QuestTable />
+    </>
 );
 
 export default App;
