@@ -1,6 +1,6 @@
 import React from "react";
 
-const Row = ({ rowData }) => {
+const Row = ({ rowData, ...props }) => {
     const {
         Name: questName,
         URL: questURL,
