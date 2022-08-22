@@ -1,6 +1,6 @@
 import React from "react";
 
-const Row = (quest) => {
+const Row = ({ rowData }) => {
     const {
         Name: questName,
         URL: questURL,
@@ -8,7 +8,7 @@ const Row = (quest) => {
         Difficulty: difficulty,
         Length: length,
         Quest_Points: questPoints
-    } = quest.quest;
+    } = rowData;
 
     return (
         <tr>

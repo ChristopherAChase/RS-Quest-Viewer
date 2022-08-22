@@ -8,10 +8,10 @@ import Row from "./Row";
 
 
 const QuestTable = () => (
-    <Table>
+    <Table align="center" width="80%">
         <Header />
         <tbody>
-            {QuestData.Quests.map(quest => <Row quest={quest} />)}
+            {QuestData.Quests.map(quest => <Row rowData={quest} />)}
         </tbody>
     </Table>
 );
