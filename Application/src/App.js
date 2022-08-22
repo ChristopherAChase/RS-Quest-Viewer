@@ -1,8 +1,12 @@
 import React from 'react';
-import Header from './components/Header';
+import QuestTable from './components/Table/QuestTable';
+import { Heading } from 'react-bulma-components';
 
 const App = () => (
-    <Header/>
+    <>
+        <Heading>Runescape Quest Viewer</Heading>
+        <QuestTable />
+    </>
 );
 
 export default App;
