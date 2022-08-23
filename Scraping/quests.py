@@ -23,7 +23,10 @@ def get_table_rows(table: NavigableString):
 
 
 def get_row_data(table_rows: NavigableString):
-    header = [titleCase(header).replace(' ', '').lower() for header in get_table_headers(get_quest_table())]
+    header = [header[0].lower() + titleCase(header)[1:].replace(' ', '')
+              for header in get_table_headers(get_quest_table())]
+
+    print(header)
     quests = []
     for tr in table_rows:
         quest_details = {"questId": str(uuid.uuid1())}
@@ -31,14 +34,14 @@ def get_row_data(table_rows: NavigableString):
             if col_index < len(tr) - 1:
                 quest_details[header[col_index]] = titleCase(td.text.strip().replace('\n', ''))
                 if col_index == 0:
-                    quest_details["questURL"] = f"{BASE_WIKI_LINK}{td.find('a')['href']}"
-                    quest_details["questQuickGuideURL"] = f"{BASE_WIKI_LINK}{td.find('a')['href']}/Quick_guide"
+                    quest_details["questUrl"] = f"{BASE_WIKI_LINK}{td.find('a')['href']}"
+                    quest_details["questQuickGuideUrl"] = f"{BASE_WIKI_LINK}{td.find('a')['href']}/Quick_guide"
                 if header[col_index].lower() == 'quest points':
                     quest_details[header[col_index]] = int(td.text.strip().replace('\n', ''))
             else:
                 quest_series = [{
                     "seriesName": a.text.strip().replace('\n', ''),
-                    "seriesURL": f"{BASE_WIKI_LINK}{a['href']}"
+                    "seriesUrl": f"{BASE_WIKI_LINK}{a['href']}"
                 } for a in td.find_all('a')]
                 quest_details[header[col_index]] = quest_series
         quest_details["skillRequirements"] = []
