@@ -3,7 +3,7 @@ import React from "react";
 const Row = ({ rowData, onToggle, expanded, ...props }) => {
   const {
     name,
-    questURL,
+    questUrl,
     members,
     difficulty,
     length,
@@ -18,7 +18,7 @@ const Row = ({ rowData, onToggle, expanded, ...props }) => {
         onClick={onToggle}
       >
         <td>
-          <a href={questURL} target="_blank">
+          <a href={questUrl} target="_blank">
             {name}
           </a>
         </td>
