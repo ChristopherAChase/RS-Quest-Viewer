@@ -7,17 +7,17 @@ import Row from "./Row";
 const QuestTable = () => {
   const [selectedRowIndex, setSelectedRowIndex] = useState("0");
 
-  const handleToggle = (index) => (
-    selectedRowIndex === index 
-      ? setSelectedRowIndex("0") 
-      : setSelectedRowIndex(index)
+  const handleToggle = (questId) => (
+    selectedRowIndex === questId
+      ? setSelectedRowIndex("0")
+      : setSelectedRowIndex(questId)
   );
 
   return (
     <Table align="center" width="80%">
       <TableHeader />
       <tbody className="questTable" >
-        {QuestData.Quests.map((quest, questId) => <Row rowData={quest} key={questId} onToggle={() => handleToggle(questId)} expanded={selectedRowIndex === questId} />)}
+        {QuestData.Quests.map((quest) => <Row rowData={quest} key={quest.questId} onToggle={() => handleToggle(quest.questId)} expanded={selectedRowIndex === quest.questId} />)}
       </tbody>
     </Table>
   );
