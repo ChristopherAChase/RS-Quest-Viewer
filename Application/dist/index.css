@@ -1,0 +1,19 @@
+.questData_main.expanded>td {
+    border-bottom: none;
+}
+
+.questData_requirements {
+    display: none;
+}
+
+.questData_requirements.expanded{
+    display: block;
+}
+
+.questData_requirements.expanded > .skill-requirements{
+    border-bottom: none;
+}
+
+.questData_requirements.expanded+.questData_main>td{
+    border-top: 1px solid #dbdbdb;
+}
