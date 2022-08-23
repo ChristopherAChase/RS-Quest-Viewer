@@ -7,7 +7,7 @@ const Row = ({ rowData, onToggle, expanded, ...props }) => {
     members,
     difficulty,
     length,
-    questpoints,
+    questPoints,
     skillRequirements
   } = rowData;
 
@@ -24,7 +24,7 @@ const Row = ({ rowData, onToggle, expanded, ...props }) => {
         </td>
         <td>{difficulty}</td>
         <td>{length}</td>
-        <td>{questpoints}</td>
+        <td>{questPoints}</td>
         <td>{members}</td>
       </tr>
       <tr className={`questData_requirements ${expanded ? "expanded" : ""}`} >
