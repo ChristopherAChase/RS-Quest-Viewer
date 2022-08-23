@@ -1,6 +1,7 @@
 import requests
 from utils.constants import QUEST_LIST_URL, BASE_WIKI_LINK
 from utils.utility import titleCase
+import uuid
 from bs4 import BeautifulSoup, NavigableString
 
 
@@ -24,8 +25,8 @@ def get_table_rows(table: NavigableString):
 def get_row_data(table_rows: NavigableString):
     header = [titleCase(header).replace(' ', '').lower() for header in get_table_headers(get_quest_table())]
     quests = []
-    for questId, tr in enumerate(table_rows):
-        quest_details = {"questId": questId}
+    for tr in table_rows:
+        quest_details = {"questId": str(uuid.uuid1())}
         for col_index, td in enumerate(tr):
             if col_index < len(tr) - 1:
                 quest_details[header[col_index]] = titleCase(td.text.strip().replace('\n', ''))
