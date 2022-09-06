@@ -18,6 +18,7 @@ const Row = ({ rowData, onToggle, expanded, ...props }) => {
         onClick={onToggle}
       >
         <td>
+          <span className={`accordion-indicator ${expanded ? "expanded": ""}`}></span>
           <a href={questUrl} target="_blank">
             {name}
           </a>
@@ -28,17 +29,18 @@ const Row = ({ rowData, onToggle, expanded, ...props }) => {
         <td>{members}</td>
       </tr>
       <tr className={`questData_requirements ${expanded ? "expanded" : ""}`} >
-        <td className="skill-requirements">
+        <td className="skill-requirements" colSpan={3}>
           <ul className={skillRequirements.length ? "skill-requirement-list" : ""}>
             {skillRequirements.length
               ? skillRequirements.map(({ skillName, requiredLevel }, requiredSkillId) => (
-                  <li key={requiredSkillId}>
+                <li key={requiredSkillId}>
                     {skillName} - {requiredLevel}
                   </li>
                 ))
-              : "No Required Skills"}
+                : "No Required Skills"}
           </ul>
         </td>
+        <td colSpan={2}></td>
       </tr>
     </>
   );
