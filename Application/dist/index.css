@@ -7,7 +7,7 @@
 }
 
 .questData_requirements.expanded{
-    display: block;
+    display: table-row;
 }
 
 .questData_requirements.expanded > .skill-requirements{
@@ -16,4 +16,26 @@
 
 .questData_requirements.expanded+.questData_main>td{
     border-top: 1px solid #dbdbdb;
+}
+
+.accordion-indicator::before{
+  content: "\276F";
+  display: inline-block;
+  text-align: center;
+  padding: 0 10px;
+  font-size: 1.1em;
+  -webkit-transition: all .25s ease-in-out;
+  -moz-transition: all .25s ease-in-out;
+  -o-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+}
+
+.questData_main:hover > .accordion-indicator::before{
+  content: "";
+}
+
+.accordion-indicator.expanded::before { 
+  transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
 }
