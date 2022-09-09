@@ -25,8 +25,7 @@ def get_table_rows(table: NavigableString):
 def get_row_data(table_rows: NavigableString):
     header = [header[0].lower() + titleCase(header)[1:].replace(' ', '')
               for header in get_table_headers(get_quest_table())]
-
-    print(header)
+              
     quests = []
     for tr in table_rows:
         quest_details = {"questId": str(uuid.uuid1())}
