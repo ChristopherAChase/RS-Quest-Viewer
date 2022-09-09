@@ -4,6 +4,7 @@ from utils.utility import get_skill_html_id, get_skill_wiki_url, titleCase
 import requests
 from bs4 import BeautifulSoup
 
+
 def get_quests_requiring_skill(skill: str):
     skill_html_id = get_skill_html_id(skill)
     skill_link = get_skill_wiki_url(skill)
