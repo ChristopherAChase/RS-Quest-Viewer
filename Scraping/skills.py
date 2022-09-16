@@ -4,7 +4,6 @@ from utils.utility import get_skill_html_id, get_skill_wiki_url, titleCase
 import requests
 from bs4 import BeautifulSoup
 
-
 def get_quests_requiring_skill(skill: str):
     skill_html_id = get_skill_html_id(skill)
     skill_link = get_skill_wiki_url(skill)
@@ -32,6 +31,7 @@ def add_skill_requirements_to_quest_dictionary(quest_dictionary: dict):
             quest = next((item for item in quest_list["Quests"] if item["name"] == titleCase(quest_name)), None)
             if quest:
                 quest["skillRequirements"].append({
+                    "skillId": ALL_SKILLS[skill],
                     "skillName": skill,
                     "requiredLevel": int(skill_level)
                 })
