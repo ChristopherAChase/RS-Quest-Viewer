@@ -12,12 +12,12 @@ def parse_list(prereq_list):
             continue
         data = {key: value for key, value in sub.a.attrs.items() if key != 'class'}
         data['questUrl'] = f"{BASE_WIKI_LINK}{data['href']}"
-        data['questGuickGuideUrl'] = f"{BASE_WIKI_LINK}{data['href']}/Quick_guide"
+        data['questQuickGuideUrl'] = f"{BASE_WIKI_LINK}{data['href']}/Quick_guide"
         data.pop('href', None)
         if sub.find("ul"):
             data['prerequisites'] = parse_list(sub.find("ul"))
 
-        if requests.head(data["questGuickGuideUrl"], verify=False, timeout=5).status_code == 200:
+        if requests.head(data["questQuickGuideUrl"], verify=False, timeout=5).status_code == 200:
             result.append(data)
 
     return result
