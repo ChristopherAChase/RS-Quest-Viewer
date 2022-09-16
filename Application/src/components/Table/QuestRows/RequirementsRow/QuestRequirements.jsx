@@ -6,7 +6,7 @@ const QuestRequirements = ({ questRequirements, ...props }) => {
     return (
       <ul className={isFirstLevel ? "quest-requirement-list" : ""}>
         {questRequirementsList.map(({ title, questUrl, prerequisites }, requiredQuestId) => (
-          <li key={requiredQuestId}>
+          <li className={"quest-requirement"} key={requiredQuestId}>
             <a href={questUrl} target="_blank">
               {title}
             </a>
