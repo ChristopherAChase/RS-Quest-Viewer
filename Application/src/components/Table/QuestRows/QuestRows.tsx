@@ -1,3 +1,4 @@
+//@ts-ignore
 import React from "react";
 import QuestOverviewRow from "./QuestOverviewRow";
 import RequirementsRow from "./RequirementsRow/RequirementsRow";

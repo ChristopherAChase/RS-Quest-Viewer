@@ -1,8 +1,14 @@
 import React from 'react';
+import { QuestRequirement } from '../../../../../@types';
 
-const QuestRequirements = ({ questRequirements, ...props }) => {
+type Props = {
+  questRequirements: QuestRequirement[], 
+  props?: any[]
+}
 
-  const getNestedRequirements = (questRequirementsList, isFirstLevel) => {
+const QuestRequirements = ({ questRequirements, ...props }: Props) => {
+  
+  const getNestedRequirements = (questRequirementsList: QuestRequirement[], isFirstLevel: boolean) => {
     return (
       <ul className={isFirstLevel ? "quest-requirement-list" : ""}>
         {questRequirementsList.map(({ title, questUrl, prerequisites }, requiredQuestId) => (

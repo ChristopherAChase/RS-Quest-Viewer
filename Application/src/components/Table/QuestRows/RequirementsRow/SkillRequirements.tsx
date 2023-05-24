@@ -1,6 +1,12 @@
 import React from 'react';
+import { Skill } from '../../../../../@types';
 
-const SkillRequirements = ({skillRequirements, ...props}) => {
+type Props = {
+  skillRequirements: Skill[], 
+  props?: any[]
+}
+
+const SkillRequirements = ({skillRequirements, ...props}: Props) => {
   return (
     <td className="skill-requirements" colSpan={2}>
       <ul className={skillRequirements.length ? "skill-requirement-list" : ""}>

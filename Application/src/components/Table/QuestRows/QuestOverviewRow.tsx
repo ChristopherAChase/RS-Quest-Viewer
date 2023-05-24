@@ -1,3 +1,4 @@
+//@ts-ignore
 import React from 'react'
 
 const QuestOverviewRow = ({ rowData, onToggle, expanded, ...props }) => {

@@ -1,3 +1,4 @@
+//@ts-ignore
 import React, { useState } from "react";
 import TableHeader from "./TableHeader";
 import { Table } from "react-bulma-components";
